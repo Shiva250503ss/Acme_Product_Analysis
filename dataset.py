@@ -1,195 +1,273 @@
-import pandas as pd
-import numpy as np
-
-# -----------------------------------------------------
-# 1. GLOBAL DEFAULT CONSTRAINTS
-# -----------------------------------------------------
-global_constraints = {
-    "min_trend": -5,          # Default min growth = -5%
-    "max_trend": 15,          # Default max growth = 15%
-    "min_contribution": 5,    # Default min contribution = 5%
-    "max_contribution": 40,   # Default max contribution = 40%
-    "margin_range": (30, 60), # Margin between 30% and 60%
-    "sales_range": (500_000, 5_000_000)  # Sales between $0.5M and $5M
-}
-
-# -----------------------------------------------------
-# 2. PORTFOLIO-SPECIFIC OVERRIDES
-# -----------------------------------------------------
-portfolio_constraints = {
-    "Hair/APDO": {
-        "min_trend": 0,
-        "max_trend": 15,
-        "min_contribution": 4,
-        "max_contribution": 30
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Sample of generated dataset:\n",
+      "                     Portfolio      Geography         Category  \\\n",
+      "0                    Hair/APDO           Asia            Tools   \n",
+      "1                    Hair/APDO  South America     Face Make-Up   \n",
+      "2                    Hair/APDO         Europe            Tools   \n",
+      "3                    Skin/Body  North America  Make Up Brushes   \n",
+      "4                    Hair/APDO  South America         Hair Dye   \n",
+      "5  Fragrance + Color Cosmetics         Europe     Face Make-Up   \n",
+      "6                    Hair/APDO  South America            Tools   \n",
+      "7  Fragrance + Color Cosmetics         Europe         Hair Dye   \n",
+      "8                    Hair/APDO           Asia  Make Up Brushes   \n",
+      "9  Fragrance + Color Cosmetics           Asia  Make Up Brushes   \n",
+      "\n",
+      "            Brand    Segment  Initial Sales  Margin %  Min Trend %  \\\n",
+      "0         Balmain  Fragrance        2734489        50           -5   \n",
+      "1         Balmain  Fragrance        1739911        33           -5   \n",
+      "2  Frederic Malle    Bronzer        3844769        59           -3   \n",
+      "3  Frederic Malle  Fragrance        1417040        41           -3   \n",
+      "4     Bobbi Brown    Bronzer        2000942        45           -1   \n",
+      "5     Bobbi Brown    Bronzer        2928388        54           -1   \n",
+      "6          Kilian    Mascara        3916664        33           -5   \n",
+      "7          Kilian    Mascara        2325665        50           -5   \n",
+      "8           Aveda      Toner        2370928        43           -5   \n",
+      "9  Frederic Malle    Mascara         771836        33           -3   \n",
+      "\n",
+      "   Max Trend %  Min Contribution %  Max Contribution %  \n",
+      "0           15                   5                  30  \n",
+      "1           15                   5                  30  \n",
+      "2            4                   5                  30  \n",
+      "3            4                   5                  40  \n",
+      "4            3                   5                  14  \n",
+      "5            3                   5                  14  \n",
+      "6           15                   5                  30  \n",
+      "7           15                   5                  40  \n",
+      "8           15                   5                  30  \n",
+      "9            4                   5                  40  \n",
+      "\n",
+      "Saved 1000-row synthetic dataset to 'Acme_Synthetic_Dataset.csv'.\n"
+     ]
     }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 1. GLOBAL DEFAULT CONSTRAINTS\n",
+    "# -----------------------------------------------------\n",
+    "global_constraints = {\n",
+    "    \"min_trend\": -5,          # Default min growth = -5%\n",
+    "    \"max_trend\": 15,          # Default max growth = 15%\n",
+    "    \"min_contribution\": 5,    # Default min contribution = 5%\n",
+    "    \"max_contribution\": 40,   # Default max contribution = 40%\n",
+    "    \"margin_range\": (30, 60), # Margin between 30% and 60%\n",
+    "    \"sales_range\": (500_000, 5_000_000)  # Sales between $0.5M and $5M\n",
+    "}\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 2. PORTFOLIO-SPECIFIC OVERRIDES\n",
+    "# -----------------------------------------------------\n",
+    "portfolio_constraints = {\n",
+    "    \"Hair/APDO\": {\n",
+    "        \"min_trend\": 0,\n",
+    "        \"max_trend\": 15,\n",
+    "        \"min_contribution\": 4,\n",
+    "        \"max_contribution\": 30\n",
+    "    }\n",
+    "}\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 3. BRAND-SPECIFIC OVERRIDES\n",
+    "# -----------------------------------------------------\n",
+    "brand_constraints = {\n",
+    "    \"Bobbi Brown\": {\n",
+    "        \"min_trend\": -1,\n",
+    "        \"max_trend\": 3,\n",
+    "        \"min_contribution\": 7,\n",
+    "        \"max_contribution\": 14\n",
+    "    },\n",
+    "    \"Elizabeth Arden\": {\n",
+    "        # The image mentions max contribution = 13% or 15%, max trend=7%,\n",
+    "        # you can tweak as needed:\n",
+    "        \"min_trend\": 0,\n",
+    "        \"max_trend\": 7,\n",
+    "        \"min_contribution\": 6,\n",
+    "        \"max_contribution\": 15\n",
+    "    },\n",
+    "    \"Frederic Malle\": {\n",
+    "        \"min_trend\": -3,\n",
+    "        \"max_trend\": 4\n",
+    "    }\n",
+    "    # Kilian, Balmain, Aveda not explicitly shown with numeric constraints,\n",
+    "    # so they use global defaults unless you'd like to add your own here.\n",
+    "}\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 4. HIERARCHY CHOICES (from the image)\n",
+    "# -----------------------------------------------------\n",
+    "portfolios = [\n",
+    "    \"Skin/Body\",\n",
+    "    \"Fragrance + Color Cosmetics\",\n",
+    "    \"Hair/APDO\"\n",
+    "]\n",
+    "\n",
+    "geographies = [\n",
+    "    \"North America\",\n",
+    "    \"Europe\",\n",
+    "    \"South America\",\n",
+    "    \"Asia\"\n",
+    "]\n",
+    "\n",
+    "categories = [\n",
+    "    \"Fragrance\",\n",
+    "    \"Hair Dye\",\n",
+    "    \"Face Make-Up\",\n",
+    "    \"Make Up Brushes\",\n",
+    "    \"Tools\"\n",
+    "]\n",
+    "\n",
+    "brands = [\n",
+    "    \"Kilian\",\n",
+    "    \"Frederic Malle\",\n",
+    "    \"Balmain\",\n",
+    "    \"Bobbi Brown\",\n",
+    "    \"Aveda\",\n",
+    "    \"Elizabeth Arden\"\n",
+    "]\n",
+    "\n",
+    "possible_segments = [\n",
+    "    \"Lipstick\",\n",
+    "    \"Mascara\",\n",
+    "    \"Toner\",\n",
+    "    \"Bronzer\",\n",
+    "    \"Fragrance\"\n",
+    "]\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# HELPER FUNCTIONS\n",
+    "# -----------------------------------------------------\n",
+    "def merge_constraints(global_c, portfolio, brand):\n",
+    "    \"\"\"\n",
+    "    Merge constraints from global -> portfolio -> brand.\n",
+    "    Priority: brand overrides portfolio overrides global.\n",
+    "    \"\"\"\n",
+    "    # Start with global\n",
+    "    merged = {\n",
+    "        \"min_trend\": global_c[\"min_trend\"],\n",
+    "        \"max_trend\": global_c[\"max_trend\"],\n",
+    "        \"min_contribution\": global_c[\"min_contribution\"],\n",
+    "        \"max_contribution\": global_c[\"max_contribution\"]\n",
+    "    }\n",
+    "\n",
+    "    # Check if the portfolio has any overrides\n",
+    "    if portfolio in portfolio_constraints:\n",
+    "        pc = portfolio_constraints[portfolio]\n",
+    "        if \"min_trend\" in pc:\n",
+    "            merged[\"min_trend\"] = pc[\"min_trend\"]\n",
+    "        if \"max_trend\" in pc:\n",
+    "            merged[\"max_trend\"] = pc[\"max_trend\"]\n",
+    "        if \"min_contribution\" in pc:\n",
+    "            merged[\"min_contribution\"] = pc[\"min_contribution\"]\n",
+    "        if \"max_contribution\" in pc:\n",
+    "            merged[\"max_contribution\"] = pc[\"max_contribution\"]\n",
+    "\n",
+    "    # Check if the brand has overrides\n",
+    "    if brand in brand_constraints:\n",
+    "        bc = brand_constraints[brand]\n",
+    "        if \"min_trend\" in bc:\n",
+    "            merged[\"min_trend\"] = bc[\"min_trend\"]\n",
+    "        if \"max_trend\" in bc:\n",
+    "            merged[\"max_trend\"] = bc[\"max_trend\"]\n",
+    "        if \"min_contribution\" in bc:\n",
+    "            merged[\"min_contribution\"] = bc[\"min_contribution\"]\n",
+    "        if \"max_contribution\" in bc:\n",
+    "            merged[\"max_contribution\"] = bc[\"max_contribution\"]\n",
+    "\n",
+    "    return merged\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 5. DATA GENERATION\n",
+    "# -----------------------------------------------------\n",
+    "def generate_acme_dataset(num_rows=1000):\n",
+    "    np.random.seed(42)  # for reproducibility\n",
+    "    rows = []\n",
+    "\n",
+    "    for _ in range(num_rows):\n",
+    "        # Randomly pick the hierarchy attributes\n",
+    "        portfolio = np.random.choice(portfolios)\n",
+    "        geo = np.random.choice(geographies)\n",
+    "        cat = np.random.choice(categories)\n",
+    "        brand = np.random.choice(brands)\n",
+    "        segment = np.random.choice(possible_segments)\n",
+    "\n",
+    "        # Merge constraints from global + portfolio + brand\n",
+    "        final_constraints = merge_constraints(global_constraints, portfolio, brand)\n",
+    "\n",
+    "        # Random margin\n",
+    "        margin_low, margin_high = global_constraints[\"margin_range\"]\n",
+    "        margin_value = np.random.randint(margin_low, margin_high + 1)\n",
+    "\n",
+    "        # Random initial sales\n",
+    "        sales_low, sales_high = global_constraints[\"sales_range\"]\n",
+    "        sales_value = np.random.randint(sales_low, sales_high + 1)\n",
+    "\n",
+    "        # Build one row\n",
+    "        row = {\n",
+    "            \"Portfolio\": portfolio,\n",
+    "            \"Geography\": geo,\n",
+    "            \"Category\": cat,\n",
+    "            \"Brand\": brand,\n",
+    "            \"Segment\": segment,\n",
+    "            \"Initial_Sales\": sales_value,\n",
+    "            \"Margin\": margin_value,\n",
+    "            \"Min_Trend\": final_constraints[\"min_trend\"],\n",
+    "            \"Max_Trend\": final_constraints[\"max_trend\"],\n",
+    "            \"Min_Contribution\": final_constraints[\"min_contribution\"],\n",
+    "            \"Max_Contribution\": final_constraints[\"max_contribution\"]\n",
+    "        }\n",
+    "        rows.append(row)\n",
+    "\n",
+    "    # Convert to DataFrame\n",
+    "    df = pd.DataFrame(rows)\n",
+    "    return df\n",
+    "\n",
+    "# -----------------------------------------------------\n",
+    "# 6. MAIN EXECUTION\n",
+    "# -----------------------------------------------------\n",
+    "if __name__ == \"__main__\":\n",
+    "    # Generate exactly 1000 rows\n",
+    "    df_acme = generate_acme_dataset(1000)\n",
+    "\n",
+    "    print(\"Sample of generated dataset:\")\n",
+    "    print(df_acme.head(10))\n",
+    "\n",
+    "    # Save to CSV\n",
+    "    df_acme.to_csv(\"Acme_Synthetic_Dataset.csv\", index=False)\n",
+    "    print(\"\\nSaved 1000-row synthetic dataset to 'Acme_Synthetic_Dataset.csv'.\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
 }
-
-# -----------------------------------------------------
-# 3. BRAND-SPECIFIC OVERRIDES
-# -----------------------------------------------------
-brand_constraints = {
-    "Bobbi Brown": {
-        "min_trend": -1,
-        "max_trend": 3,
-        "min_contribution": 7,
-        "max_contribution": 14
-    },
-    "Elizabeth Arden": {
-        # The image mentions max contribution = 13% or 15%, max trend=7%,
-        # you can tweak as needed:
-        "min_trend": 0,
-        "max_trend": 7,
-        "min_contribution": 6,
-        "max_contribution": 15
-    },
-    "Frederic Malle": {
-        "min_trend": -3,
-        "max_trend": 4
-    }
-    # Kilian, Balmain, Aveda not explicitly shown with numeric constraints,
-    # so they use global defaults unless you'd like to add your own here.
-}
-
-# -----------------------------------------------------
-# 4. HIERARCHY CHOICES (from the image)
-# -----------------------------------------------------
-portfolios = [
-    "Skin/Body",
-    "Fragrance + Color Cosmetics",
-    "Hair/APDO"
-]
-
-geographies = [
-    "North America",
-    "Europe",
-    "South America",
-    "Asia"
-]
-
-categories = [
-    "Fragrance",
-    "Hair Dye",
-    "Face Make-Up",
-    "Make Up Brushes",
-    "Tools"
-]
-
-brands = [
-    "Kilian",
-    "Frederic Malle",
-    "Balmain",
-    "Bobbi Brown",
-    "Aveda",
-    "Elizabeth Arden"
-]
-
-possible_segments = [
-    "Lipstick",
-    "Mascara",
-    "Toner",
-    "Bronzer",
-    "Fragrance"
-]
-
-# -----------------------------------------------------
-# HELPER FUNCTIONS
-# -----------------------------------------------------
-def merge_constraints(global_c, portfolio, brand):
-    """
-    Merge constraints from global -> portfolio -> brand.
-    Priority: brand overrides portfolio overrides global.
-    """
-    # Start with global
-    merged = {
-        "min_trend": global_c["min_trend"],
-        "max_trend": global_c["max_trend"],
-        "min_contribution": global_c["min_contribution"],
-        "max_contribution": global_c["max_contribution"]
-    }
-
-    # Check if the portfolio has any overrides
-    if portfolio in portfolio_constraints:
-        pc = portfolio_constraints[portfolio]
-        if "min_trend" in pc:
-            merged["min_trend"] = pc["min_trend"]
-        if "max_trend" in pc:
-            merged["max_trend"] = pc["max_trend"]
-        if "min_contribution" in pc:
-            merged["min_contribution"] = pc["min_contribution"]
-        if "max_contribution" in pc:
-            merged["max_contribution"] = pc["max_contribution"]
-
-    # Check if the brand has overrides
-    if brand in brand_constraints:
-        bc = brand_constraints[brand]
-        if "min_trend" in bc:
-            merged["min_trend"] = bc["min_trend"]
-        if "max_trend" in bc:
-            merged["max_trend"] = bc["max_trend"]
-        if "min_contribution" in bc:
-            merged["min_contribution"] = bc["min_contribution"]
-        if "max_contribution" in bc:
-            merged["max_contribution"] = bc["max_contribution"]
-
-    return merged
-
-# -----------------------------------------------------
-# 5. DATA GENERATION
-# -----------------------------------------------------
-def generate_acme_dataset(num_rows=1000):
-    np.random.seed(42)  # for reproducibility
-    rows = []
-
-    for _ in range(num_rows):
-        # Randomly pick the hierarchy attributes
-        portfolio = np.random.choice(portfolios)
-        geo = np.random.choice(geographies)
-        cat = np.random.choice(categories)
-        brand = np.random.choice(brands)
-        segment = np.random.choice(possible_segments)
-
-        # Merge constraints from global + portfolio + brand
-        final_constraints = merge_constraints(global_constraints, portfolio, brand)
-
-        # Random margin
-        margin_low, margin_high = global_constraints["margin_range"]
-        margin_value = np.random.randint(margin_low, margin_high + 1)
-
-        # Random initial sales
-        sales_low, sales_high = global_constraints["sales_range"]
-        sales_value = np.random.randint(sales_low, sales_high + 1)
-
-        # Build one row
-        row = {
-            "Portfolio": portfolio,
-            "Geography": geo,
-            "Category": cat,
-            "Brand": brand,
-            "Segment": segment,
-            "Initial_Sales": sales_value,
-            "Margin": margin_value,
-            "Min_Trend": final_constraints["min_trend"],
-            "Max_Trend": final_constraints["max_trend"],
-            "Min_Contribution": final_constraints["min_contribution"],
-            "Max_Contribution": final_constraints["max_contribution"]
-        }
-        rows.append(row)
-
-    # Convert to DataFrame
-    df = pd.DataFrame(rows)
-    return df
-
-# -----------------------------------------------------
-# 6. MAIN EXECUTION
-# -----------------------------------------------------
-if __name__ == "__main__":
-    # Generate exactly 1000 rows
-    df_acme = generate_acme_dataset(1000)
-
-    print("Sample of generated dataset:")
-    print(df_acme.head(10))
-
-    # Save to CSV
-    df_acme.to_csv("Acme_Synthetic_Dataset.csv", index=False)
-    print("\nSaved 1000-row synthetic dataset to 'Acme_Synthetic_Dataset.csv'.")
