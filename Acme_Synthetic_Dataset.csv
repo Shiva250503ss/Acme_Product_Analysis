@@ -1,0 +1,1001 @@
+Portfolio,Geography,Category,Brand,Segment,Initial_Sales,Margin,Min_Trend,Max_Trend,Min_Contribution,Max_Contribution
+Hair/APDO,Asia,Tools,Balmain,Fragrance,2734489,50,0,15,4,30
+Hair/APDO,South America,Face Make-Up,Balmain,Fragrance,1739911,33,0,15,4,30
+Hair/APDO,Europe,Tools,Frederic Malle,Bronzer,3844769,59,-3,4,4,30
+Skin/Body,North America,Make Up Brushes,Frederic Malle,Fragrance,1417040,41,-3,4,5,40
+Hair/APDO,South America,Hair Dye,Bobbi Brown,Bronzer,2000942,45,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Bobbi Brown,Bronzer,2928388,54,-1,3,7,14
+Hair/APDO,South America,Tools,Kilian,Mascara,3916664,33,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Hair Dye,Kilian,Mascara,2325665,50,-5,15,5,40
+Hair/APDO,Asia,Make Up Brushes,Aveda,Toner,2370928,43,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Frederic Malle,Mascara,771836,33,-3,4,5,40
+Hair/APDO,Europe,Hair Dye,Bobbi Brown,Mascara,1771741,39,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Fragrance,3204238,45,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Kilian,Bronzer,3113740,57,-5,15,5,40
+Skin/Body,North America,Tools,Kilian,Lipstick,3765879,36,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Balmain,Lipstick,2611138,37,-5,15,5,40
+Hair/APDO,North America,Face Make-Up,Aveda,Mascara,3448089,36,0,15,4,30
+Skin/Body,Asia,Fragrance,Bobbi Brown,Mascara,2370230,30,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Tools,Balmain,Bronzer,2621690,37,-5,15,5,40
+Hair/APDO,North America,Face Make-Up,Aveda,Toner,4908324,30,0,15,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Kilian,Mascara,2516716,39,-5,15,5,40
+Hair/APDO,South America,Fragrance,Bobbi Brown,Fragrance,3332868,33,-1,3,7,14
+Hair/APDO,South America,Tools,Balmain,Fragrance,3970495,33,0,15,4,30
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Bronzer,3557213,31,0,7,6,15
+Skin/Body,North America,Make Up Brushes,Bobbi Brown,Bronzer,2623091,41,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Frederic Malle,Bronzer,2984413,54,-3,4,5,40
+Skin/Body,North America,Fragrance,Balmain,Lipstick,4822252,49,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Kilian,Fragrance,3612754,30,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Elizabeth Arden,Lipstick,1996176,49,0,7,6,15
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Bronzer,4759622,59,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Aveda,Lipstick,1313168,53,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Elizabeth Arden,Fragrance,4872093,30,0,7,6,15
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Frederic Malle,Bronzer,2706903,52,-3,4,5,40
+Hair/APDO,North America,Tools,Bobbi Brown,Mascara,2161909,35,-1,3,7,14
+Hair/APDO,South America,Fragrance,Kilian,Bronzer,4673125,56,0,15,4,30
+Skin/Body,South America,Make Up Brushes,Bobbi Brown,Toner,4635314,33,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Face Make-Up,Bobbi Brown,Bronzer,571295,38,-1,3,7,14
+Hair/APDO,Europe,Fragrance,Balmain,Bronzer,1325816,54,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Balmain,Bronzer,4004473,45,-5,15,5,40
+Skin/Body,Asia,Make Up Brushes,Kilian,Mascara,2972189,30,-5,15,5,40
+Skin/Body,North America,Face Make-Up,Kilian,Lipstick,4614639,32,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Bobbi Brown,Toner,1291971,46,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Elizabeth Arden,Toner,3421944,45,0,7,6,15
+Hair/APDO,North America,Tools,Frederic Malle,Mascara,2600021,31,-3,4,4,30
+Hair/APDO,Asia,Tools,Kilian,Bronzer,2635619,30,0,15,4,30
+Skin/Body,Europe,Tools,Bobbi Brown,Toner,4801754,46,-1,3,7,14
+Hair/APDO,Europe,Tools,Balmain,Toner,2514484,56,0,15,4,30
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Kilian,Fragrance,4272962,57,-5,15,5,40
+Skin/Body,Asia,Fragrance,Bobbi Brown,Bronzer,3951356,59,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Face Make-Up,Bobbi Brown,Lipstick,3009079,34,-1,3,7,14
+Skin/Body,North America,Tools,Balmain,Bronzer,4835868,30,-5,15,5,40
+Skin/Body,Asia,Fragrance,Balmain,Mascara,1188105,54,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Balmain,Mascara,1605534,44,0,15,4,30
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Lipstick,998863,37,-3,4,4,30
+Hair/APDO,North America,Hair Dye,Frederic Malle,Toner,1297079,47,-3,4,4,30
+Skin/Body,Asia,Hair Dye,Kilian,Bronzer,4428083,42,-5,15,5,40
+Skin/Body,Asia,Make Up Brushes,Balmain,Bronzer,1496161,31,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Kilian,Mascara,4979125,60,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Fragrance,Bobbi Brown,Mascara,2781230,35,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Aveda,Lipstick,2485588,37,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Elizabeth Arden,Fragrance,1760386,49,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Aveda,Mascara,3467197,57,0,15,4,30
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Mascara,4195961,52,-1,3,7,14
+Skin/Body,Europe,Tools,Elizabeth Arden,Lipstick,3720468,41,0,7,6,15
+Skin/Body,Europe,Hair Dye,Kilian,Mascara,1029525,59,-5,15,5,40
+Skin/Body,Asia,Tools,Aveda,Lipstick,4199391,45,-5,15,5,40
+Hair/APDO,North America,Tools,Balmain,Bronzer,2664367,55,0,15,4,30
+Hair/APDO,North America,Fragrance,Aveda,Bronzer,2248014,34,0,15,4,30
+Skin/Body,Europe,Make Up Brushes,Aveda,Bronzer,1264121,45,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Tools,Bobbi Brown,Lipstick,1607677,59,-1,3,7,14
+Skin/Body,South America,Hair Dye,Frederic Malle,Fragrance,2141249,33,-3,4,5,40
+Hair/APDO,Europe,Hair Dye,Balmain,Mascara,1852695,30,0,15,4,30
+Skin/Body,North America,Make Up Brushes,Frederic Malle,Lipstick,3837690,57,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Lipstick,3484626,58,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Balmain,Lipstick,2555723,30,0,15,4,30
+Skin/Body,North America,Make Up Brushes,Elizabeth Arden,Mascara,3476242,58,0,7,6,15
+Fragrance + Color Cosmetics,South America,Fragrance,Frederic Malle,Fragrance,3853597,55,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Fragrance,Bobbi Brown,Mascara,3422097,50,-1,3,7,14
+Skin/Body,South America,Tools,Bobbi Brown,Lipstick,3865884,50,-1,3,7,14
+Skin/Body,Asia,Hair Dye,Aveda,Lipstick,1333727,53,-5,15,5,40
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Mascara,4890886,46,-1,3,7,14
+Hair/APDO,Europe,Tools,Bobbi Brown,Lipstick,4241196,52,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Kilian,Lipstick,2507635,46,0,15,4,30
+Skin/Body,Europe,Tools,Balmain,Toner,3725187,46,-5,15,5,40
+Skin/Body,North America,Face Make-Up,Bobbi Brown,Lipstick,4121581,36,-1,3,7,14
+Hair/APDO,Asia,Make Up Brushes,Balmain,Mascara,1539458,44,0,15,4,30
+Skin/Body,Asia,Face Make-Up,Aveda,Bronzer,2919862,50,-5,15,5,40
+Skin/Body,South America,Tools,Aveda,Mascara,4443334,55,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Aveda,Toner,4768764,52,-5,15,5,40
+Hair/APDO,South America,Hair Dye,Bobbi Brown,Lipstick,4908249,39,-1,3,7,14
+Skin/Body,North America,Tools,Frederic Malle,Lipstick,1017313,47,-3,4,5,40
+Skin/Body,North America,Tools,Elizabeth Arden,Toner,1786643,37,0,7,6,15
+Skin/Body,South America,Fragrance,Aveda,Bronzer,4942987,33,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Frederic Malle,Mascara,4185501,48,-3,4,5,40
+Hair/APDO,North America,Tools,Frederic Malle,Bronzer,3676083,59,-3,4,4,30
+Skin/Body,South America,Fragrance,Kilian,Toner,2887312,42,-5,15,5,40
+Skin/Body,Asia,Fragrance,Elizabeth Arden,Fragrance,2371403,35,0,7,6,15
+Skin/Body,Asia,Tools,Aveda,Fragrance,2034837,45,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Aveda,Bronzer,923570,32,-5,15,5,40
+Skin/Body,Europe,Fragrance,Kilian,Lipstick,1917077,50,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Balmain,Bronzer,2985195,39,0,15,4,30
+Skin/Body,Asia,Hair Dye,Bobbi Brown,Bronzer,4275803,55,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Aveda,Lipstick,997562,33,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Fragrance,Kilian,Lipstick,2679996,50,-5,15,5,40
+Skin/Body,Europe,Face Make-Up,Aveda,Mascara,1075278,48,-5,15,5,40
+Skin/Body,Europe,Hair Dye,Elizabeth Arden,Mascara,1774732,56,0,7,6,15
+Skin/Body,South America,Fragrance,Elizabeth Arden,Lipstick,4571647,47,0,7,6,15
+Hair/APDO,North America,Face Make-Up,Aveda,Mascara,2266616,60,0,15,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Kilian,Fragrance,3751298,30,-5,15,5,40
+Hair/APDO,North America,Tools,Elizabeth Arden,Bronzer,2832517,46,0,7,6,15
+Hair/APDO,North America,Tools,Aveda,Fragrance,663273,39,0,15,4,30
+Hair/APDO,North America,Tools,Elizabeth Arden,Lipstick,4477266,43,0,7,6,15
+Skin/Body,North America,Make Up Brushes,Elizabeth Arden,Lipstick,4540479,46,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Hair Dye,Frederic Malle,Mascara,4082069,51,-3,4,5,40
+Hair/APDO,South America,Hair Dye,Bobbi Brown,Lipstick,2179748,51,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Kilian,Lipstick,3136694,45,-5,15,5,40
+Hair/APDO,North America,Tools,Elizabeth Arden,Mascara,815826,40,0,7,6,15
+Hair/APDO,Europe,Make Up Brushes,Frederic Malle,Mascara,1050222,31,-3,4,4,30
+Hair/APDO,South America,Hair Dye,Bobbi Brown,Lipstick,2432247,35,-1,3,7,14
+Hair/APDO,Asia,Hair Dye,Balmain,Lipstick,3030179,34,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Fragrance,Frederic Malle,Lipstick,1150199,57,-3,4,5,40
+Skin/Body,Europe,Tools,Frederic Malle,Fragrance,3026954,59,-3,4,5,40
+Hair/APDO,Asia,Face Make-Up,Balmain,Lipstick,3857519,52,0,15,4,30
+Hair/APDO,South America,Make Up Brushes,Bobbi Brown,Lipstick,2450367,32,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Hair Dye,Balmain,Toner,4650276,50,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Aveda,Fragrance,2745131,35,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Kilian,Mascara,1572200,42,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Elizabeth Arden,Toner,1929551,60,0,7,6,15
+Skin/Body,North America,Hair Dye,Bobbi Brown,Lipstick,1414032,37,-1,3,7,14
+Hair/APDO,North America,Make Up Brushes,Elizabeth Arden,Mascara,567661,57,0,7,6,15
+Fragrance + Color Cosmetics,North America,Hair Dye,Elizabeth Arden,Toner,1807506,53,0,7,6,15
+Hair/APDO,South America,Face Make-Up,Bobbi Brown,Fragrance,1130265,47,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Face Make-Up,Kilian,Fragrance,2819049,57,-5,15,5,40
+Hair/APDO,North America,Fragrance,Elizabeth Arden,Mascara,3169355,59,0,7,6,15
+Skin/Body,North America,Tools,Bobbi Brown,Lipstick,967010,33,-1,3,7,14
+Skin/Body,North America,Hair Dye,Bobbi Brown,Mascara,3068103,44,-1,3,7,14
+Skin/Body,Asia,Face Make-Up,Frederic Malle,Lipstick,1072735,34,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Fragrance,4359744,54,-5,15,5,40
+Skin/Body,Europe,Tools,Elizabeth Arden,Bronzer,4881514,59,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Fragrance,Balmain,Toner,1533255,60,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Bobbi Brown,Bronzer,1671459,40,-1,3,7,14
+Hair/APDO,Europe,Fragrance,Elizabeth Arden,Toner,1025134,59,0,7,6,15
+Hair/APDO,Asia,Hair Dye,Balmain,Fragrance,564323,41,0,15,4,30
+Hair/APDO,Asia,Fragrance,Bobbi Brown,Lipstick,1354016,41,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Tools,Elizabeth Arden,Toner,3383427,60,0,7,6,15
+Skin/Body,South America,Face Make-Up,Kilian,Mascara,4257974,53,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Aveda,Mascara,3654240,49,-5,15,5,40
+Hair/APDO,North America,Fragrance,Kilian,Lipstick,2690222,40,0,15,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Elizabeth Arden,Lipstick,2824797,34,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Balmain,Lipstick,1884418,31,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Aveda,Toner,2655748,38,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Aveda,Fragrance,4563309,34,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Kilian,Fragrance,1329735,39,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Aveda,Lipstick,3795374,52,0,15,4,30
+Skin/Body,North America,Fragrance,Kilian,Mascara,1414228,43,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Toner,845266,36,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Aveda,Lipstick,4302010,49,-5,15,5,40
+Skin/Body,Europe,Fragrance,Kilian,Fragrance,2861632,34,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Frederic Malle,Fragrance,3631209,56,-3,4,5,40
+Skin/Body,Europe,Tools,Bobbi Brown,Fragrance,2399443,53,-1,3,7,14
+Hair/APDO,North America,Tools,Aveda,Bronzer,2207692,41,0,15,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Balmain,Bronzer,3192755,33,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Elizabeth Arden,Mascara,4827819,43,0,7,6,15
+Fragrance + Color Cosmetics,North America,Hair Dye,Kilian,Lipstick,4924507,44,-5,15,5,40
+Hair/APDO,Asia,Make Up Brushes,Bobbi Brown,Bronzer,3181719,34,-1,3,7,14
+Skin/Body,Asia,Hair Dye,Kilian,Bronzer,2914472,60,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Elizabeth Arden,Lipstick,2776106,51,0,7,6,15
+Hair/APDO,North America,Tools,Aveda,Mascara,3824323,43,0,15,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Kilian,Toner,2529454,37,-5,15,5,40
+Skin/Body,South America,Fragrance,Aveda,Lipstick,1011411,39,-5,15,5,40
+Skin/Body,North America,Hair Dye,Kilian,Toner,2398739,60,-5,15,5,40
+Skin/Body,Europe,Face Make-Up,Elizabeth Arden,Mascara,2081530,36,0,7,6,15
+Fragrance + Color Cosmetics,South America,Fragrance,Balmain,Toner,3249178,41,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Bobbi Brown,Fragrance,4478400,53,-1,3,7,14
+Skin/Body,North America,Face Make-Up,Elizabeth Arden,Mascara,1795302,57,0,7,6,15
+Skin/Body,Asia,Fragrance,Kilian,Bronzer,3852252,51,-5,15,5,40
+Skin/Body,South America,Fragrance,Aveda,Toner,4596951,56,-5,15,5,40
+Hair/APDO,Europe,Tools,Kilian,Fragrance,3194287,58,0,15,4,30
+Hair/APDO,Europe,Fragrance,Elizabeth Arden,Toner,1805585,44,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Kilian,Mascara,4995013,59,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Kilian,Fragrance,3948678,52,0,15,4,30
+Hair/APDO,Asia,Hair Dye,Frederic Malle,Toner,2780827,43,-3,4,4,30
+Skin/Body,South America,Make Up Brushes,Frederic Malle,Fragrance,4543064,37,-3,4,5,40
+Hair/APDO,South America,Face Make-Up,Aveda,Lipstick,3980130,44,0,15,4,30
+Hair/APDO,North America,Make Up Brushes,Frederic Malle,Toner,1478039,53,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Bobbi Brown,Fragrance,1111213,51,-1,3,7,14
+Hair/APDO,South America,Hair Dye,Frederic Malle,Lipstick,2526580,52,-3,4,4,30
+Hair/APDO,Asia,Tools,Balmain,Bronzer,4026737,58,0,15,4,30
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Toner,4316446,39,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Bobbi Brown,Fragrance,2205215,34,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Hair Dye,Aveda,Bronzer,2483851,32,-5,15,5,40
+Skin/Body,Europe,Face Make-Up,Elizabeth Arden,Lipstick,4730258,47,0,7,6,15
+Skin/Body,Europe,Fragrance,Frederic Malle,Fragrance,822918,54,-3,4,5,40
+Skin/Body,Europe,Face Make-Up,Elizabeth Arden,Bronzer,1786585,55,0,7,6,15
+Skin/Body,North America,Hair Dye,Aveda,Toner,1514929,35,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Kilian,Mascara,4585412,46,-5,15,5,40
+Skin/Body,Europe,Hair Dye,Bobbi Brown,Fragrance,1216756,39,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Frederic Malle,Bronzer,4684056,42,-3,4,4,30
+Skin/Body,South America,Hair Dye,Aveda,Lipstick,863476,55,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Bobbi Brown,Toner,3796050,30,-1,3,7,14
+Skin/Body,Asia,Face Make-Up,Frederic Malle,Fragrance,1376031,50,-3,4,5,40
+Skin/Body,South America,Face Make-Up,Elizabeth Arden,Mascara,4631479,52,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Kilian,Mascara,3851278,33,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Balmain,Lipstick,1179418,59,0,15,4,30
+Skin/Body,South America,Hair Dye,Kilian,Mascara,3221864,31,-5,15,5,40
+Skin/Body,Asia,Fragrance,Kilian,Lipstick,4375754,58,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Face Make-Up,Balmain,Mascara,2158987,34,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Bobbi Brown,Toner,3891418,34,-1,3,7,14
+Hair/APDO,North America,Tools,Kilian,Mascara,3477590,54,0,15,4,30
+Skin/Body,South America,Make Up Brushes,Elizabeth Arden,Toner,1691902,37,0,7,6,15
+Skin/Body,North America,Tools,Elizabeth Arden,Lipstick,1275435,47,0,7,6,15
+Hair/APDO,South America,Hair Dye,Kilian,Fragrance,2064718,55,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Fragrance,Frederic Malle,Fragrance,2024102,51,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Tools,Kilian,Toner,704615,45,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Frederic Malle,Bronzer,781570,36,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Kilian,Toner,3047500,41,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Balmain,Mascara,1309942,52,-5,15,5,40
+Hair/APDO,South America,Fragrance,Bobbi Brown,Fragrance,2188472,51,-1,3,7,14
+Skin/Body,Europe,Fragrance,Aveda,Mascara,2808989,41,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Frederic Malle,Mascara,1520154,59,-3,4,5,40
+Hair/APDO,North America,Tools,Frederic Malle,Toner,3303696,56,-3,4,4,30
+Skin/Body,Europe,Tools,Bobbi Brown,Lipstick,3206871,45,-1,3,7,14
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Lipstick,4944499,60,0,7,6,15
+Skin/Body,North America,Fragrance,Balmain,Fragrance,1049239,43,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Frederic Malle,Fragrance,1770464,54,-3,4,5,40
+Skin/Body,Europe,Fragrance,Kilian,Lipstick,3688729,53,-5,15,5,40
+Skin/Body,North America,Tools,Balmain,Bronzer,1410775,35,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Elizabeth Arden,Fragrance,4873656,31,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Balmain,Bronzer,931413,58,0,15,4,30
+Skin/Body,South America,Tools,Elizabeth Arden,Mascara,3707393,40,0,7,6,15
+Skin/Body,Europe,Fragrance,Kilian,Mascara,645271,32,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Elizabeth Arden,Lipstick,576898,38,0,7,6,15
+Fragrance + Color Cosmetics,North America,Tools,Balmain,Mascara,2329553,32,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Balmain,Toner,2175843,35,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Balmain,Lipstick,3114235,53,-5,15,5,40
+Skin/Body,North America,Face Make-Up,Kilian,Mascara,1642953,41,-5,15,5,40
+Skin/Body,South America,Fragrance,Aveda,Toner,1105409,56,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Aveda,Mascara,4657893,47,0,15,4,30
+Skin/Body,Asia,Tools,Bobbi Brown,Fragrance,4666769,42,-1,3,7,14
+Skin/Body,Asia,Tools,Balmain,Mascara,1156951,32,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Aveda,Fragrance,2866610,30,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Kilian,Fragrance,2255692,40,-5,15,5,40
+Skin/Body,North America,Hair Dye,Bobbi Brown,Toner,2226470,35,-1,3,7,14
+Skin/Body,South America,Tools,Frederic Malle,Lipstick,1209662,48,-3,4,5,40
+Hair/APDO,Europe,Hair Dye,Balmain,Fragrance,2639686,59,0,15,4,30
+Hair/APDO,Europe,Make Up Brushes,Frederic Malle,Fragrance,4261675,58,-3,4,4,30
+Hair/APDO,Europe,Tools,Elizabeth Arden,Toner,4598064,46,0,7,6,15
+Hair/APDO,Europe,Make Up Brushes,Aveda,Toner,1100530,45,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Kilian,Mascara,2164221,60,-5,15,5,40
+Skin/Body,North America,Make Up Brushes,Bobbi Brown,Bronzer,638563,47,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Bobbi Brown,Lipstick,4441237,39,-1,3,7,14
+Skin/Body,Europe,Hair Dye,Balmain,Mascara,4076511,47,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Bobbi Brown,Toner,3273939,32,-1,3,7,14
+Skin/Body,Asia,Tools,Balmain,Lipstick,3677326,35,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Balmain,Mascara,3034937,52,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Hair Dye,Aveda,Bronzer,3210626,46,-5,15,5,40
+Skin/Body,North America,Tools,Aveda,Toner,944191,49,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Elizabeth Arden,Toner,4222946,56,0,7,6,15
+Skin/Body,Europe,Make Up Brushes,Bobbi Brown,Fragrance,1910706,50,-1,3,7,14
+Skin/Body,North America,Face Make-Up,Balmain,Lipstick,1419484,55,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Kilian,Bronzer,4061963,47,0,15,4,30
+Hair/APDO,Asia,Make Up Brushes,Elizabeth Arden,Lipstick,2942266,46,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Balmain,Fragrance,4477019,41,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Elizabeth Arden,Lipstick,1018349,59,0,7,6,15
+Hair/APDO,North America,Make Up Brushes,Bobbi Brown,Bronzer,4497615,38,-1,3,7,14
+Skin/Body,Asia,Tools,Aveda,Mascara,1109996,53,-5,15,5,40
+Skin/Body,Asia,Tools,Frederic Malle,Mascara,888590,43,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Aveda,Lipstick,2879877,30,0,15,4,30
+Skin/Body,Asia,Face Make-Up,Elizabeth Arden,Toner,1936536,53,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Bobbi Brown,Lipstick,2278599,39,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Fragrance,Frederic Malle,Lipstick,4870380,30,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Mascara,4382149,51,-1,3,7,14
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Mascara,2491083,39,-3,4,4,30
+Skin/Body,Asia,Face Make-Up,Aveda,Toner,1943717,56,-5,15,5,40
+Skin/Body,Europe,Fragrance,Kilian,Mascara,864359,41,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Elizabeth Arden,Toner,657702,60,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Elizabeth Arden,Mascara,2368670,51,0,7,6,15
+Hair/APDO,South America,Fragrance,Bobbi Brown,Mascara,1432817,43,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Aveda,Lipstick,2680338,42,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Aveda,Fragrance,764500,52,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Bobbi Brown,Mascara,2440369,35,-1,3,7,14
+Hair/APDO,Europe,Tools,Kilian,Toner,1890281,32,0,15,4,30
+Hair/APDO,South America,Tools,Aveda,Lipstick,2068560,36,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Aveda,Bronzer,1495843,34,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Frederic Malle,Lipstick,2863999,48,-3,4,5,40
+Skin/Body,Asia,Hair Dye,Aveda,Mascara,2116449,33,-5,15,5,40
+Hair/APDO,Europe,Make Up Brushes,Elizabeth Arden,Mascara,2877074,48,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Bobbi Brown,Toner,4662065,42,-1,3,7,14
+Skin/Body,South America,Fragrance,Balmain,Mascara,4852099,37,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Mascara,4459076,52,-1,3,7,14
+Skin/Body,Europe,Tools,Kilian,Bronzer,2698611,58,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Fragrance,Balmain,Lipstick,3113275,54,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Aveda,Lipstick,561367,37,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Frederic Malle,Toner,3984239,51,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Lipstick,1423780,30,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Kilian,Bronzer,798090,57,0,15,4,30
+Skin/Body,South America,Tools,Bobbi Brown,Fragrance,2305808,46,-1,3,7,14
+Hair/APDO,South America,Make Up Brushes,Balmain,Fragrance,1437841,49,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Fragrance,Aveda,Bronzer,1707068,55,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Elizabeth Arden,Fragrance,3355994,50,0,7,6,15
+Skin/Body,North America,Fragrance,Balmain,Bronzer,4342323,39,-5,15,5,40
+Skin/Body,Europe,Face Make-Up,Balmain,Mascara,2424401,54,-5,15,5,40
+Skin/Body,North America,Face Make-Up,Frederic Malle,Bronzer,4706419,35,-3,4,5,40
+Hair/APDO,Asia,Tools,Bobbi Brown,Mascara,2548891,39,-1,3,7,14
+Hair/APDO,Asia,Hair Dye,Aveda,Lipstick,3622951,52,0,15,4,30
+Skin/Body,Asia,Tools,Elizabeth Arden,Mascara,1464918,30,0,7,6,15
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Mascara,3333552,47,-3,4,4,30
+Fragrance + Color Cosmetics,Asia,Fragrance,Bobbi Brown,Toner,3027576,37,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Fragrance,Kilian,Toner,3430639,60,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Kilian,Mascara,3127144,59,-5,15,5,40
+Skin/Body,North America,Fragrance,Aveda,Lipstick,3119980,50,-5,15,5,40
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Mascara,4199181,58,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Frederic Malle,Fragrance,3890742,38,-3,4,5,40
+Hair/APDO,North America,Face Make-Up,Kilian,Lipstick,2076590,50,0,15,4,30
+Skin/Body,Asia,Hair Dye,Aveda,Toner,3860160,57,-5,15,5,40
+Skin/Body,Asia,Fragrance,Balmain,Bronzer,4495609,35,-5,15,5,40
+Hair/APDO,South America,Hair Dye,Frederic Malle,Lipstick,725049,32,-3,4,4,30
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Aveda,Fragrance,2880932,55,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Tools,Bobbi Brown,Bronzer,3017334,44,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Hair Dye,Bobbi Brown,Toner,3310860,40,-1,3,7,14
+Skin/Body,South America,Face Make-Up,Aveda,Bronzer,2201667,44,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Aveda,Fragrance,1857133,51,0,15,4,30
+Skin/Body,Asia,Tools,Bobbi Brown,Toner,1752078,58,-1,3,7,14
+Hair/APDO,Asia,Hair Dye,Bobbi Brown,Mascara,1198956,31,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Face Make-Up,Bobbi Brown,Mascara,4757950,36,-1,3,7,14
+Hair/APDO,South America,Fragrance,Frederic Malle,Fragrance,655683,39,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Bobbi Brown,Fragrance,4692814,39,-1,3,7,14
+Hair/APDO,North America,Tools,Elizabeth Arden,Bronzer,3829049,38,0,7,6,15
+Skin/Body,South America,Hair Dye,Frederic Malle,Lipstick,2275767,58,-3,4,5,40
+Skin/Body,Europe,Face Make-Up,Aveda,Bronzer,1997618,47,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Frederic Malle,Toner,3058944,33,-3,4,4,30
+Hair/APDO,Europe,Tools,Kilian,Toner,1512384,41,0,15,4,30
+Hair/APDO,North America,Fragrance,Elizabeth Arden,Fragrance,4900072,44,0,7,6,15
+Fragrance + Color Cosmetics,North America,Tools,Kilian,Lipstick,757681,31,-5,15,5,40
+Hair/APDO,Europe,Tools,Kilian,Lipstick,4887814,40,0,15,4,30
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Frederic Malle,Mascara,3758084,36,-3,4,5,40
+Skin/Body,Asia,Face Make-Up,Kilian,Lipstick,4810796,56,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Bobbi Brown,Fragrance,4577716,41,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Hair Dye,Balmain,Bronzer,4668962,58,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Bobbi Brown,Mascara,1280641,35,-1,3,7,14
+Hair/APDO,Europe,Make Up Brushes,Elizabeth Arden,Bronzer,3051331,55,0,7,6,15
+Skin/Body,North America,Tools,Kilian,Mascara,3996605,59,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Kilian,Bronzer,2768115,37,-5,15,5,40
+Hair/APDO,Asia,Tools,Bobbi Brown,Toner,2626453,37,-1,3,7,14
+Skin/Body,Asia,Make Up Brushes,Kilian,Lipstick,2814181,59,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Aveda,Bronzer,3115804,35,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Frederic Malle,Fragrance,715400,31,-3,4,5,40
+Skin/Body,Europe,Face Make-Up,Kilian,Lipstick,4094058,30,-5,15,5,40
+Hair/APDO,Asia,Hair Dye,Bobbi Brown,Mascara,4235466,52,-1,3,7,14
+Hair/APDO,Europe,Make Up Brushes,Aveda,Bronzer,4398606,39,0,15,4,30
+Skin/Body,Europe,Hair Dye,Aveda,Toner,4886007,59,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Bobbi Brown,Lipstick,3233460,44,-1,3,7,14
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Toner,1752557,47,-3,4,4,30
+Fragrance + Color Cosmetics,Asia,Hair Dye,Kilian,Mascara,4102684,54,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Elizabeth Arden,Lipstick,4840092,43,0,7,6,15
+Hair/APDO,South America,Fragrance,Elizabeth Arden,Lipstick,1990036,42,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Tools,Frederic Malle,Bronzer,1056110,54,-3,4,5,40
+Skin/Body,Asia,Make Up Brushes,Bobbi Brown,Fragrance,1713261,60,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Elizabeth Arden,Fragrance,2421277,40,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Balmain,Fragrance,2115777,48,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Elizabeth Arden,Toner,2033854,47,0,7,6,15
+Hair/APDO,North America,Face Make-Up,Kilian,Toner,1750632,50,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Bobbi Brown,Lipstick,2119715,33,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Aveda,Bronzer,4146259,49,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Aveda,Bronzer,2930525,60,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Bobbi Brown,Fragrance,4501412,58,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Elizabeth Arden,Toner,704366,50,0,7,6,15
+Skin/Body,Europe,Hair Dye,Aveda,Lipstick,2226676,42,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Aveda,Fragrance,1202436,47,-5,15,5,40
+Skin/Body,Asia,Make Up Brushes,Kilian,Toner,3107411,46,-5,15,5,40
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Bronzer,2463571,31,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Kilian,Fragrance,1317052,49,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Frederic Malle,Fragrance,1601928,46,-3,4,5,40
+Skin/Body,Asia,Fragrance,Kilian,Lipstick,942939,31,-5,15,5,40
+Skin/Body,North America,Hair Dye,Frederic Malle,Mascara,2819124,57,-3,4,5,40
+Hair/APDO,South America,Hair Dye,Balmain,Lipstick,3588272,44,0,15,4,30
+Hair/APDO,Asia,Tools,Balmain,Fragrance,2661088,41,0,15,4,30
+Hair/APDO,North America,Tools,Kilian,Toner,4555447,30,0,15,4,30
+Hair/APDO,Asia,Fragrance,Aveda,Bronzer,4264455,50,0,15,4,30
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Balmain,Bronzer,4404722,44,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Balmain,Toner,3675684,55,0,15,4,30
+Skin/Body,Europe,Hair Dye,Elizabeth Arden,Bronzer,2745854,46,0,7,6,15
+Skin/Body,North America,Hair Dye,Frederic Malle,Toner,4570211,46,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Kilian,Mascara,4518365,52,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Aveda,Bronzer,3400737,41,0,15,4,30
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Mascara,3793705,40,-1,3,7,14
+Hair/APDO,North America,Hair Dye,Kilian,Lipstick,2373722,37,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Hair Dye,Kilian,Mascara,2019603,51,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Tools,Bobbi Brown,Toner,4778384,43,-1,3,7,14
+Skin/Body,South America,Hair Dye,Elizabeth Arden,Lipstick,4613640,41,0,7,6,15
+Hair/APDO,Europe,Tools,Aveda,Fragrance,1366183,59,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Balmain,Toner,2620539,54,-5,15,5,40
+Skin/Body,North America,Hair Dye,Frederic Malle,Fragrance,817875,50,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Bobbi Brown,Fragrance,2099908,51,-1,3,7,14
+Skin/Body,North America,Face Make-Up,Elizabeth Arden,Toner,529725,52,0,7,6,15
+Hair/APDO,Asia,Fragrance,Aveda,Mascara,3013024,55,0,15,4,30
+Skin/Body,South America,Fragrance,Bobbi Brown,Toner,4411146,39,-1,3,7,14
+Skin/Body,Europe,Tools,Elizabeth Arden,Toner,2149729,56,0,7,6,15
+Skin/Body,Asia,Tools,Kilian,Bronzer,2181641,33,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Kilian,Lipstick,4210388,31,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Balmain,Toner,3121038,34,-5,15,5,40
+Skin/Body,Asia,Make Up Brushes,Frederic Malle,Toner,4368452,55,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Tools,Frederic Malle,Bronzer,4601036,57,-3,4,5,40
+Skin/Body,South America,Make Up Brushes,Aveda,Toner,3170308,53,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Bobbi Brown,Mascara,1794929,59,-1,3,7,14
+Hair/APDO,South America,Make Up Brushes,Bobbi Brown,Toner,4307085,46,-1,3,7,14
+Hair/APDO,Europe,Tools,Bobbi Brown,Mascara,4183444,35,-1,3,7,14
+Hair/APDO,Asia,Face Make-Up,Aveda,Bronzer,790998,59,0,15,4,30
+Skin/Body,South America,Fragrance,Frederic Malle,Bronzer,2944026,46,-3,4,5,40
+Hair/APDO,South America,Face Make-Up,Kilian,Bronzer,4084197,51,0,15,4,30
+Hair/APDO,South America,Make Up Brushes,Balmain,Lipstick,4290328,55,0,15,4,30
+Skin/Body,Europe,Hair Dye,Balmain,Fragrance,3739536,40,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Elizabeth Arden,Lipstick,4502713,56,0,7,6,15
+Hair/APDO,North America,Tools,Aveda,Bronzer,2849316,46,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Elizabeth Arden,Mascara,4434999,32,0,7,6,15
+Skin/Body,Asia,Fragrance,Elizabeth Arden,Bronzer,3027419,41,0,7,6,15
+Skin/Body,South America,Make Up Brushes,Kilian,Bronzer,3071165,50,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Balmain,Bronzer,1467561,43,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Kilian,Fragrance,4421451,35,-5,15,5,40
+Skin/Body,North America,Make Up Brushes,Balmain,Bronzer,1305113,47,-5,15,5,40
+Hair/APDO,North America,Tools,Bobbi Brown,Mascara,2103546,30,-1,3,7,14
+Hair/APDO,Europe,Hair Dye,Balmain,Bronzer,4235444,53,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Elizabeth Arden,Lipstick,4057689,34,0,7,6,15
+Skin/Body,Europe,Tools,Balmain,Mascara,4267255,34,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Kilian,Fragrance,3998408,41,-5,15,5,40
+Skin/Body,Europe,Tools,Bobbi Brown,Mascara,4823654,54,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Kilian,Fragrance,3784321,58,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Fragrance,Elizabeth Arden,Lipstick,1879904,46,0,7,6,15
+Fragrance + Color Cosmetics,North America,Tools,Frederic Malle,Lipstick,3329455,31,-3,4,5,40
+Hair/APDO,North America,Make Up Brushes,Elizabeth Arden,Bronzer,1597353,56,0,7,6,15
+Hair/APDO,Asia,Face Make-Up,Kilian,Fragrance,1088158,49,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Tools,Elizabeth Arden,Bronzer,2711738,57,0,7,6,15
+Skin/Body,North America,Hair Dye,Bobbi Brown,Mascara,3727544,46,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Mascara,521253,49,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Balmain,Mascara,1450162,40,0,15,4,30
+Skin/Body,South America,Face Make-Up,Bobbi Brown,Mascara,622775,37,-1,3,7,14
+Skin/Body,Asia,Tools,Aveda,Lipstick,2769070,44,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Frederic Malle,Bronzer,1756715,49,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Toner,4302986,56,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Kilian,Fragrance,779215,57,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Elizabeth Arden,Toner,4233003,38,0,7,6,15
+Hair/APDO,Europe,Fragrance,Aveda,Fragrance,2974653,50,0,15,4,30
+Skin/Body,Europe,Make Up Brushes,Bobbi Brown,Mascara,1032726,60,-1,3,7,14
+Hair/APDO,North America,Fragrance,Balmain,Lipstick,3092536,33,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Tools,Balmain,Fragrance,3743484,57,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Elizabeth Arden,Toner,2496170,57,0,7,6,15
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Bobbi Brown,Lipstick,2285559,50,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Bobbi Brown,Bronzer,1356047,59,-1,3,7,14
+Skin/Body,Asia,Hair Dye,Elizabeth Arden,Lipstick,1345474,50,0,7,6,15
+Fragrance + Color Cosmetics,North America,Face Make-Up,Frederic Malle,Mascara,3751128,40,-3,4,5,40
+Hair/APDO,Asia,Fragrance,Aveda,Bronzer,3031086,40,0,15,4,30
+Hair/APDO,South America,Fragrance,Bobbi Brown,Fragrance,4257985,45,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Elizabeth Arden,Lipstick,3150235,49,0,7,6,15
+Skin/Body,Asia,Face Make-Up,Bobbi Brown,Mascara,3446862,54,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Tools,Balmain,Lipstick,943316,50,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Bobbi Brown,Lipstick,3744424,36,-1,3,7,14
+Hair/APDO,Asia,Tools,Frederic Malle,Toner,3980826,30,-3,4,4,30
+Hair/APDO,South America,Face Make-Up,Balmain,Mascara,3062605,53,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Aveda,Toner,1521469,48,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Bobbi Brown,Lipstick,963001,54,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Balmain,Toner,739017,32,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Bobbi Brown,Fragrance,1576941,36,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Lipstick,1889330,57,-1,3,7,14
+Hair/APDO,Asia,Tools,Aveda,Bronzer,3443295,37,0,15,4,30
+Skin/Body,Asia,Make Up Brushes,Kilian,Toner,2058242,50,-5,15,5,40
+Skin/Body,South America,Fragrance,Bobbi Brown,Toner,1729787,33,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Tools,Elizabeth Arden,Lipstick,4125654,53,0,7,6,15
+Skin/Body,Europe,Fragrance,Elizabeth Arden,Bronzer,1352746,32,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Aveda,Fragrance,901067,45,-5,15,5,40
+Skin/Body,North America,Tools,Kilian,Fragrance,1504001,38,-5,15,5,40
+Skin/Body,Asia,Tools,Bobbi Brown,Bronzer,2399054,43,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Frederic Malle,Bronzer,3334837,58,-3,4,4,30
+Skin/Body,South America,Make Up Brushes,Kilian,Fragrance,3270742,48,-5,15,5,40
+Hair/APDO,Asia,Make Up Brushes,Bobbi Brown,Bronzer,770914,42,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Hair Dye,Frederic Malle,Toner,2246688,52,-3,4,5,40
+Hair/APDO,Europe,Fragrance,Frederic Malle,Lipstick,2888229,58,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Bobbi Brown,Mascara,1853324,30,-1,3,7,14
+Skin/Body,South America,Face Make-Up,Aveda,Bronzer,4896720,53,-5,15,5,40
+Skin/Body,North America,Fragrance,Elizabeth Arden,Lipstick,1249971,59,0,7,6,15
+Skin/Body,Europe,Tools,Aveda,Lipstick,1842057,59,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Kilian,Fragrance,2892919,46,0,15,4,30
+Skin/Body,South America,Face Make-Up,Kilian,Fragrance,3202994,40,-5,15,5,40
+Hair/APDO,North America,Tools,Kilian,Bronzer,4214379,48,0,15,4,30
+Skin/Body,North America,Tools,Bobbi Brown,Fragrance,4400379,45,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Fragrance,Balmain,Fragrance,4498422,44,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Frederic Malle,Mascara,4908285,31,-3,4,5,40
+Skin/Body,South America,Make Up Brushes,Frederic Malle,Fragrance,3155982,48,-3,4,5,40
+Skin/Body,North America,Make Up Brushes,Frederic Malle,Toner,1872070,44,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Tools,Kilian,Mascara,4950252,31,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Balmain,Lipstick,606022,54,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Aveda,Mascara,661445,58,0,15,4,30
+Hair/APDO,Asia,Hair Dye,Kilian,Lipstick,1010370,59,0,15,4,30
+Hair/APDO,North America,Tools,Frederic Malle,Fragrance,708944,50,-3,4,4,30
+Hair/APDO,South America,Fragrance,Kilian,Bronzer,1697162,50,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Aveda,Lipstick,2279685,50,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Bobbi Brown,Mascara,4385250,32,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Frederic Malle,Toner,828821,54,-3,4,4,30
+Skin/Body,Asia,Hair Dye,Bobbi Brown,Fragrance,568803,36,-1,3,7,14
+Skin/Body,Asia,Fragrance,Kilian,Bronzer,745404,48,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Bobbi Brown,Toner,3526394,40,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Kilian,Fragrance,1115863,37,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Kilian,Fragrance,1328791,47,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Aveda,Bronzer,876794,55,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Elizabeth Arden,Toner,1282877,58,0,7,6,15
+Fragrance + Color Cosmetics,North America,Hair Dye,Aveda,Fragrance,3799973,39,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Kilian,Fragrance,1350350,42,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Aveda,Bronzer,4696656,34,-5,15,5,40
+Skin/Body,Europe,Tools,Elizabeth Arden,Fragrance,3328630,56,0,7,6,15
+Hair/APDO,South America,Hair Dye,Frederic Malle,Fragrance,4824848,48,-3,4,4,30
+Skin/Body,Europe,Make Up Brushes,Aveda,Bronzer,2172795,40,-5,15,5,40
+Hair/APDO,Asia,Tools,Balmain,Fragrance,2006145,44,0,15,4,30
+Hair/APDO,Asia,Face Make-Up,Aveda,Lipstick,2042247,32,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Balmain,Fragrance,3104884,36,-5,15,5,40
+Skin/Body,North America,Tools,Bobbi Brown,Toner,1288140,60,-1,3,7,14
+Hair/APDO,Asia,Tools,Elizabeth Arden,Toner,2118963,36,0,7,6,15
+Skin/Body,Europe,Hair Dye,Bobbi Brown,Lipstick,2727503,48,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Toner,1409245,30,-1,3,7,14
+Hair/APDO,South America,Face Make-Up,Balmain,Lipstick,1972178,48,0,15,4,30
+Skin/Body,Europe,Face Make-Up,Frederic Malle,Bronzer,2881486,48,-3,4,5,40
+Hair/APDO,South America,Make Up Brushes,Aveda,Toner,625438,45,0,15,4,30
+Skin/Body,Asia,Make Up Brushes,Aveda,Lipstick,2699391,46,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Balmain,Fragrance,4064462,42,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Elizabeth Arden,Fragrance,717770,51,0,7,6,15
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Fragrance,3202882,45,-3,4,4,30
+Fragrance + Color Cosmetics,North America,Face Make-Up,Balmain,Mascara,2681913,37,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Kilian,Bronzer,902980,54,-5,15,5,40
+Skin/Body,South America,Tools,Aveda,Fragrance,1949087,57,-5,15,5,40
+Skin/Body,South America,Fragrance,Bobbi Brown,Toner,4316126,31,-1,3,7,14
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Bronzer,1797991,59,0,7,6,15
+Hair/APDO,Europe,Make Up Brushes,Aveda,Fragrance,1485132,31,0,15,4,30
+Skin/Body,South America,Face Make-Up,Elizabeth Arden,Mascara,3181206,37,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Elizabeth Arden,Bronzer,3232481,31,0,7,6,15
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Frederic Malle,Toner,3960989,37,-3,4,5,40
+Hair/APDO,South America,Tools,Aveda,Lipstick,2750397,46,0,15,4,30
+Skin/Body,North America,Tools,Balmain,Fragrance,1972542,48,-5,15,5,40
+Skin/Body,South America,Hair Dye,Frederic Malle,Bronzer,2098099,37,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Bobbi Brown,Bronzer,4398190,50,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Aveda,Toner,3084182,52,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Mascara,769160,60,-3,4,4,30
+Skin/Body,South America,Fragrance,Kilian,Mascara,1337393,58,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Frederic Malle,Lipstick,3635812,35,-3,4,5,40
+Skin/Body,Asia,Tools,Bobbi Brown,Toner,4189024,54,-1,3,7,14
+Hair/APDO,South America,Fragrance,Balmain,Mascara,4579441,41,0,15,4,30
+Hair/APDO,South America,Tools,Balmain,Lipstick,2067343,35,0,15,4,30
+Hair/APDO,North America,Fragrance,Frederic Malle,Mascara,4494528,58,-3,4,4,30
+Hair/APDO,North America,Hair Dye,Aveda,Fragrance,2088236,40,0,15,4,30
+Skin/Body,North America,Make Up Brushes,Balmain,Lipstick,3175480,33,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Toner,3401092,48,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Kilian,Toner,3388939,44,-5,15,5,40
+Skin/Body,Asia,Fragrance,Aveda,Mascara,3672382,34,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Kilian,Toner,4352256,51,-5,15,5,40
+Skin/Body,South America,Tools,Aveda,Mascara,3610691,38,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Elizabeth Arden,Bronzer,3075508,41,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Fragrance,Bobbi Brown,Fragrance,664074,57,-1,3,7,14
+Hair/APDO,North America,Fragrance,Kilian,Mascara,562507,50,0,15,4,30
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Fragrance,4418949,34,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Fragrance,Bobbi Brown,Mascara,3408056,32,-1,3,7,14
+Hair/APDO,South America,Fragrance,Bobbi Brown,Bronzer,1561404,53,-1,3,7,14
+Hair/APDO,North America,Make Up Brushes,Frederic Malle,Bronzer,3035232,55,-3,4,4,30
+Hair/APDO,Asia,Fragrance,Bobbi Brown,Mascara,2863162,41,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Hair Dye,Balmain,Lipstick,923332,31,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Kilian,Lipstick,2142425,52,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Elizabeth Arden,Bronzer,4676426,45,0,7,6,15
+Skin/Body,Asia,Tools,Bobbi Brown,Toner,879039,38,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Kilian,Fragrance,1278883,51,0,15,4,30
+Hair/APDO,North America,Fragrance,Aveda,Mascara,3698156,31,0,15,4,30
+Hair/APDO,Asia,Make Up Brushes,Frederic Malle,Bronzer,4268950,55,-3,4,4,30
+Skin/Body,Asia,Make Up Brushes,Frederic Malle,Toner,3706943,44,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Balmain,Mascara,3050982,41,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Kilian,Mascara,1244748,56,-5,15,5,40
+Hair/APDO,South America,Tools,Aveda,Bronzer,1797819,44,0,15,4,30
+Hair/APDO,South America,Fragrance,Kilian,Bronzer,2096853,35,0,15,4,30
+Skin/Body,South America,Fragrance,Elizabeth Arden,Mascara,4016144,55,0,7,6,15
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Bobbi Brown,Lipstick,4377809,40,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Aveda,Mascara,789220,50,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Elizabeth Arden,Mascara,4499453,43,0,7,6,15
+Hair/APDO,Europe,Tools,Bobbi Brown,Fragrance,2737035,40,-1,3,7,14
+Skin/Body,North America,Face Make-Up,Aveda,Mascara,4411147,40,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Balmain,Bronzer,2321367,45,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Bobbi Brown,Toner,1849590,34,-1,3,7,14
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Bronzer,1969793,41,-3,4,4,30
+Skin/Body,South America,Face Make-Up,Aveda,Mascara,1426215,31,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Elizabeth Arden,Lipstick,3011910,40,0,7,6,15
+Skin/Body,South America,Make Up Brushes,Frederic Malle,Fragrance,2150824,51,-3,4,5,40
+Skin/Body,Europe,Make Up Brushes,Aveda,Bronzer,1192137,57,-5,15,5,40
+Hair/APDO,South America,Tools,Frederic Malle,Bronzer,2157153,37,-3,4,4,30
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Fragrance,2306684,56,0,7,6,15
+Hair/APDO,Asia,Tools,Aveda,Mascara,2795936,33,0,15,4,30
+Skin/Body,North America,Fragrance,Balmain,Bronzer,2040724,49,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Kilian,Toner,4562224,55,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Aveda,Bronzer,2136675,50,-5,15,5,40
+Skin/Body,Europe,Fragrance,Frederic Malle,Mascara,1535891,42,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Balmain,Lipstick,1267876,38,0,15,4,30
+Fragrance + Color Cosmetics,North America,Fragrance,Elizabeth Arden,Mascara,1706184,53,0,7,6,15
+Skin/Body,Asia,Tools,Balmain,Toner,1215339,50,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Bronzer,1128889,36,-5,15,5,40
+Skin/Body,North America,Make Up Brushes,Frederic Malle,Bronzer,3029832,44,-3,4,5,40
+Hair/APDO,Asia,Make Up Brushes,Elizabeth Arden,Lipstick,3284067,56,0,7,6,15
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Lipstick,1924663,32,-5,15,5,40
+Hair/APDO,Asia,Tools,Bobbi Brown,Mascara,4967223,58,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Frederic Malle,Lipstick,637686,46,-3,4,5,40
+Skin/Body,Asia,Make Up Brushes,Aveda,Fragrance,4424221,60,-5,15,5,40
+Skin/Body,Europe,Fragrance,Kilian,Fragrance,3867611,54,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Kilian,Mascara,2447238,37,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Toner,4061262,48,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Fragrance,3739254,42,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Kilian,Toner,2031064,48,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Elizabeth Arden,Bronzer,1968919,36,0,7,6,15
+Fragrance + Color Cosmetics,North America,Tools,Kilian,Toner,1945065,52,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Kilian,Toner,2141232,39,0,15,4,30
+Hair/APDO,North America,Face Make-Up,Aveda,Fragrance,1284192,35,0,15,4,30
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Lipstick,4029921,38,-1,3,7,14
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Lipstick,1037977,44,0,7,6,15
+Hair/APDO,North America,Fragrance,Kilian,Mascara,2659173,56,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Aveda,Toner,4997968,46,-5,15,5,40
+Hair/APDO,North America,Fragrance,Kilian,Toner,4476974,55,0,15,4,30
+Fragrance + Color Cosmetics,North America,Face Make-Up,Balmain,Bronzer,3387757,32,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Aveda,Bronzer,3600498,53,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Kilian,Toner,4319712,50,-5,15,5,40
+Skin/Body,South America,Tools,Elizabeth Arden,Toner,797675,48,0,7,6,15
+Hair/APDO,South America,Hair Dye,Kilian,Bronzer,625355,60,0,15,4,30
+Hair/APDO,Europe,Face Make-Up,Kilian,Fragrance,2509606,37,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Frederic Malle,Toner,2381297,48,-3,4,5,40
+Skin/Body,North America,Make Up Brushes,Elizabeth Arden,Fragrance,592036,40,0,7,6,15
+Hair/APDO,Asia,Fragrance,Elizabeth Arden,Lipstick,1690456,34,0,7,6,15
+Fragrance + Color Cosmetics,North America,Face Make-Up,Kilian,Mascara,2324964,45,-5,15,5,40
+Hair/APDO,Europe,Make Up Brushes,Kilian,Fragrance,4608502,49,0,15,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Elizabeth Arden,Fragrance,1047219,53,0,7,6,15
+Skin/Body,Asia,Hair Dye,Frederic Malle,Lipstick,4355933,54,-3,4,5,40
+Skin/Body,Europe,Fragrance,Frederic Malle,Mascara,2397883,34,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Tools,Frederic Malle,Mascara,4166344,49,-3,4,5,40
+Skin/Body,South America,Fragrance,Bobbi Brown,Toner,1594409,32,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Face Make-Up,Frederic Malle,Bronzer,2673513,53,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Balmain,Toner,1579525,58,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Bobbi Brown,Toner,1781506,49,-1,3,7,14
+Hair/APDO,Europe,Tools,Frederic Malle,Toner,4335598,35,-3,4,4,30
+Hair/APDO,Europe,Fragrance,Kilian,Lipstick,551707,56,0,15,4,30
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Kilian,Toner,2783785,55,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Elizabeth Arden,Toner,4033716,45,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Frederic Malle,Lipstick,2791136,42,-3,4,4,30
+Skin/Body,North America,Make Up Brushes,Kilian,Lipstick,1352050,33,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Kilian,Fragrance,4969353,43,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Frederic Malle,Mascara,4248529,56,-3,4,5,40
+Hair/APDO,Asia,Face Make-Up,Aveda,Lipstick,4361774,57,0,15,4,30
+Skin/Body,South America,Fragrance,Balmain,Mascara,3318907,48,-5,15,5,40
+Skin/Body,South America,Fragrance,Kilian,Mascara,4364044,47,-5,15,5,40
+Hair/APDO,North America,Tools,Bobbi Brown,Lipstick,1308301,54,-1,3,7,14
+Skin/Body,South America,Hair Dye,Balmain,Fragrance,1838306,47,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Balmain,Mascara,1869391,59,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Elizabeth Arden,Toner,936542,33,0,7,6,15
+Skin/Body,Asia,Face Make-Up,Frederic Malle,Lipstick,2562087,52,-3,4,5,40
+Hair/APDO,Europe,Hair Dye,Kilian,Lipstick,2495141,58,0,15,4,30
+Hair/APDO,North America,Fragrance,Bobbi Brown,Bronzer,3999701,30,-1,3,7,14
+Skin/Body,North America,Hair Dye,Balmain,Fragrance,3403609,31,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Elizabeth Arden,Mascara,4300315,37,0,7,6,15
+Hair/APDO,North America,Make Up Brushes,Frederic Malle,Mascara,2905514,60,-3,4,4,30
+Fragrance + Color Cosmetics,North America,Tools,Bobbi Brown,Fragrance,4199509,40,-1,3,7,14
+Hair/APDO,North America,Face Make-Up,Elizabeth Arden,Mascara,2522784,54,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Aveda,Fragrance,928745,46,-5,15,5,40
+Skin/Body,Europe,Face Make-Up,Aveda,Bronzer,1036644,48,-5,15,5,40
+Skin/Body,Asia,Make Up Brushes,Bobbi Brown,Toner,3273737,53,-1,3,7,14
+Hair/APDO,North America,Tools,Aveda,Mascara,1489336,49,0,15,4,30
+Skin/Body,South America,Tools,Bobbi Brown,Mascara,561753,46,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Kilian,Fragrance,1155496,58,0,15,4,30
+Fragrance + Color Cosmetics,South America,Tools,Balmain,Lipstick,576240,51,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Lipstick,4885224,60,0,7,6,15
+Skin/Body,South America,Tools,Aveda,Bronzer,2062518,44,-5,15,5,40
+Skin/Body,North America,Tools,Frederic Malle,Fragrance,2087819,35,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Elizabeth Arden,Lipstick,1490121,59,0,7,6,15
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Bronzer,4609545,48,-3,4,4,30
+Hair/APDO,Europe,Face Make-Up,Elizabeth Arden,Bronzer,1521436,53,0,7,6,15
+Skin/Body,South America,Fragrance,Elizabeth Arden,Lipstick,4684238,48,0,7,6,15
+Fragrance + Color Cosmetics,North America,Tools,Frederic Malle,Mascara,2903233,48,-3,4,5,40
+Skin/Body,Asia,Tools,Kilian,Fragrance,1633183,58,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Aveda,Mascara,1660294,46,-5,15,5,40
+Skin/Body,North America,Fragrance,Elizabeth Arden,Lipstick,3448632,40,0,7,6,15
+Hair/APDO,North America,Face Make-Up,Aveda,Fragrance,3524015,40,0,15,4,30
+Skin/Body,Europe,Make Up Brushes,Kilian,Lipstick,1837768,58,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Lipstick,1025005,36,0,7,6,15
+Skin/Body,South America,Face Make-Up,Frederic Malle,Lipstick,3950087,42,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Elizabeth Arden,Bronzer,3701208,44,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Kilian,Lipstick,2514017,42,0,15,4,30
+Skin/Body,North America,Make Up Brushes,Aveda,Toner,4149244,39,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Toner,2362205,52,0,7,6,15
+Hair/APDO,Asia,Make Up Brushes,Balmain,Mascara,2867322,60,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Elizabeth Arden,Lipstick,1199895,38,0,7,6,15
+Hair/APDO,Asia,Fragrance,Bobbi Brown,Lipstick,3549316,55,-1,3,7,14
+Skin/Body,Europe,Hair Dye,Bobbi Brown,Lipstick,1406450,32,-1,3,7,14
+Skin/Body,South America,Make Up Brushes,Kilian,Bronzer,2543321,35,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Aveda,Mascara,4891401,33,-5,15,5,40
+Skin/Body,North America,Hair Dye,Bobbi Brown,Mascara,3138439,58,-1,3,7,14
+Hair/APDO,North America,Tools,Balmain,Mascara,2305518,59,0,15,4,30
+Skin/Body,Europe,Hair Dye,Frederic Malle,Bronzer,2482847,48,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Balmain,Toner,2357596,59,-5,15,5,40
+Skin/Body,Europe,Tools,Bobbi Brown,Fragrance,2270394,55,-1,3,7,14
+Hair/APDO,Europe,Hair Dye,Aveda,Bronzer,4295830,52,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Frederic Malle,Fragrance,1434048,49,-3,4,5,40
+Skin/Body,North America,Tools,Aveda,Toner,3491620,44,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Elizabeth Arden,Toner,2949308,53,0,7,6,15
+Hair/APDO,Asia,Tools,Elizabeth Arden,Mascara,4631146,31,0,7,6,15
+Skin/Body,Europe,Tools,Elizabeth Arden,Toner,3721131,49,0,7,6,15
+Hair/APDO,North America,Face Make-Up,Aveda,Mascara,4717690,32,0,15,4,30
+Hair/APDO,South America,Tools,Aveda,Lipstick,4543763,32,0,15,4,30
+Hair/APDO,South America,Tools,Balmain,Toner,1693982,59,0,15,4,30
+Skin/Body,South America,Hair Dye,Kilian,Bronzer,2156042,52,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Fragrance,4790697,58,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Aveda,Fragrance,2998578,60,0,15,4,30
+Hair/APDO,Europe,Hair Dye,Aveda,Toner,2045491,54,0,15,4,30
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Mascara,1933284,52,0,7,6,15
+Hair/APDO,South America,Tools,Balmain,Fragrance,530257,41,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Lipstick,3135466,43,-1,3,7,14
+Hair/APDO,North America,Hair Dye,Balmain,Mascara,1727222,53,0,15,4,30
+Hair/APDO,North America,Make Up Brushes,Aveda,Lipstick,1365256,56,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Kilian,Bronzer,4973447,30,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Kilian,Fragrance,749265,43,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Balmain,Toner,1635371,44,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Bobbi Brown,Mascara,3748140,59,-1,3,7,14
+Skin/Body,Europe,Tools,Kilian,Mascara,2358997,33,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Balmain,Bronzer,1021244,37,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Bobbi Brown,Bronzer,939439,52,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Aveda,Toner,2394554,44,-5,15,5,40
+Skin/Body,South America,Fragrance,Balmain,Toner,4285961,49,-5,15,5,40
+Skin/Body,South America,Fragrance,Aveda,Bronzer,3121158,57,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Kilian,Lipstick,2498173,39,-5,15,5,40
+Skin/Body,South America,Face Make-Up,Frederic Malle,Mascara,1141593,36,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Frederic Malle,Mascara,4609070,49,-3,4,5,40
+Skin/Body,Asia,Face Make-Up,Aveda,Lipstick,1734215,37,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Fragrance,4750167,59,0,7,6,15
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Bronzer,778495,58,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Frederic Malle,Mascara,4401403,60,-3,4,5,40
+Fragrance + Color Cosmetics,Asia,Tools,Elizabeth Arden,Mascara,4320671,37,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Bobbi Brown,Bronzer,2242166,59,-1,3,7,14
+Skin/Body,North America,Hair Dye,Kilian,Mascara,3242455,50,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Kilian,Mascara,1097904,48,-5,15,5,40
+Hair/APDO,Europe,Tools,Kilian,Lipstick,2104243,37,0,15,4,30
+Fragrance + Color Cosmetics,South America,Tools,Frederic Malle,Fragrance,2138846,45,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Toner,2882865,45,-5,15,5,40
+Hair/APDO,South America,Make Up Brushes,Balmain,Lipstick,4598535,59,0,15,4,30
+Skin/Body,North America,Fragrance,Kilian,Fragrance,2499117,35,-5,15,5,40
+Hair/APDO,Europe,Make Up Brushes,Bobbi Brown,Lipstick,1011162,42,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Aveda,Toner,2779042,57,-5,15,5,40
+Skin/Body,Europe,Hair Dye,Elizabeth Arden,Fragrance,1239574,35,0,7,6,15
+Fragrance + Color Cosmetics,North America,Face Make-Up,Frederic Malle,Toner,1119696,56,-3,4,5,40
+Hair/APDO,South America,Tools,Aveda,Bronzer,3476030,54,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Bronzer,2350924,42,-1,3,7,14
+Hair/APDO,Europe,Hair Dye,Kilian,Bronzer,1641452,49,0,15,4,30
+Skin/Body,Europe,Make Up Brushes,Kilian,Lipstick,1730796,44,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Frederic Malle,Toner,2412493,42,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Aveda,Fragrance,4932027,46,0,15,4,30
+Skin/Body,North America,Hair Dye,Elizabeth Arden,Mascara,4615741,60,0,7,6,15
+Hair/APDO,North America,Hair Dye,Aveda,Mascara,2954698,42,0,15,4,30
+Skin/Body,Europe,Tools,Kilian,Toner,975278,49,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Bobbi Brown,Fragrance,2126528,52,-1,3,7,14
+Skin/Body,Asia,Fragrance,Elizabeth Arden,Lipstick,3321839,41,0,7,6,15
+Skin/Body,Asia,Make Up Brushes,Kilian,Fragrance,4379928,43,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Elizabeth Arden,Bronzer,3354119,30,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Balmain,Toner,3099327,60,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Tools,Aveda,Mascara,3449311,35,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Kilian,Toner,3966032,48,0,15,4,30
+Skin/Body,South America,Hair Dye,Balmain,Bronzer,1081904,56,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Frederic Malle,Fragrance,2522643,48,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Balmain,Bronzer,2823724,55,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Kilian,Bronzer,920539,52,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Toner,3997831,43,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Frederic Malle,Mascara,3022919,45,-3,4,4,30
+Skin/Body,South America,Make Up Brushes,Frederic Malle,Bronzer,4031674,35,-3,4,5,40
+Skin/Body,South America,Make Up Brushes,Elizabeth Arden,Fragrance,2926105,54,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Hair Dye,Kilian,Mascara,770146,49,-5,15,5,40
+Skin/Body,South America,Hair Dye,Balmain,Lipstick,4972089,44,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Bobbi Brown,Bronzer,1146275,52,-1,3,7,14
+Hair/APDO,Asia,Fragrance,Elizabeth Arden,Lipstick,4961213,31,0,7,6,15
+Hair/APDO,Europe,Tools,Kilian,Bronzer,1483667,46,0,15,4,30
+Fragrance + Color Cosmetics,North America,Tools,Kilian,Bronzer,2701340,35,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Elizabeth Arden,Bronzer,1574477,44,0,7,6,15
+Skin/Body,North America,Fragrance,Frederic Malle,Fragrance,797584,35,-3,4,5,40
+Hair/APDO,Asia,Make Up Brushes,Bobbi Brown,Toner,2151348,47,-1,3,7,14
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Mascara,4990224,54,-3,4,4,30
+Hair/APDO,South America,Tools,Aveda,Mascara,1416004,42,0,15,4,30
+Hair/APDO,North America,Tools,Aveda,Lipstick,1775393,56,0,15,4,30
+Skin/Body,Asia,Make Up Brushes,Balmain,Toner,2242955,57,-5,15,5,40
+Hair/APDO,Europe,Tools,Balmain,Fragrance,2135765,58,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Fragrance,Frederic Malle,Fragrance,2505534,53,-3,4,5,40
+Skin/Body,Asia,Fragrance,Elizabeth Arden,Fragrance,1436320,44,0,7,6,15
+Skin/Body,North America,Hair Dye,Elizabeth Arden,Mascara,4961902,50,0,7,6,15
+Skin/Body,Europe,Face Make-Up,Aveda,Lipstick,3377429,46,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Elizabeth Arden,Lipstick,3863244,45,0,7,6,15
+Fragrance + Color Cosmetics,South America,Tools,Elizabeth Arden,Fragrance,1597996,56,0,7,6,15
+Skin/Body,South America,Tools,Balmain,Bronzer,1168629,35,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Frederic Malle,Mascara,4738340,44,-3,4,5,40
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Frederic Malle,Mascara,2078232,33,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Tools,Bobbi Brown,Toner,4718346,60,-1,3,7,14
+Hair/APDO,Asia,Face Make-Up,Kilian,Toner,4843699,48,0,15,4,30
+Hair/APDO,Asia,Hair Dye,Bobbi Brown,Fragrance,2265520,58,-1,3,7,14
+Hair/APDO,South America,Hair Dye,Kilian,Toner,2265317,33,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Tools,Elizabeth Arden,Bronzer,2916826,37,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Tools,Frederic Malle,Bronzer,2217534,42,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Kilian,Fragrance,3550999,31,0,15,4,30
+Hair/APDO,South America,Hair Dye,Aveda,Lipstick,4223234,45,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Hair Dye,Frederic Malle,Fragrance,3607548,50,-3,4,5,40
+Hair/APDO,Asia,Hair Dye,Balmain,Fragrance,4358884,52,0,15,4,30
+Fragrance + Color Cosmetics,Europe,Hair Dye,Aveda,Bronzer,2862460,33,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Mascara,3835379,38,-3,4,4,30
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Balmain,Mascara,4380323,40,-5,15,5,40
+Hair/APDO,Asia,Fragrance,Kilian,Toner,990999,34,0,15,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Bobbi Brown,Toner,920602,42,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Bobbi Brown,Bronzer,3362349,52,-1,3,7,14
+Skin/Body,Europe,Fragrance,Balmain,Lipstick,2220444,38,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Elizabeth Arden,Lipstick,4857356,57,0,7,6,15
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Mascara,4591373,54,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Fragrance,Kilian,Toner,4407297,49,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Balmain,Fragrance,4734453,50,-5,15,5,40
+Skin/Body,South America,Fragrance,Elizabeth Arden,Mascara,3824024,41,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Balmain,Lipstick,1861425,48,-5,15,5,40
+Hair/APDO,North America,Face Make-Up,Frederic Malle,Lipstick,2435657,41,-3,4,4,30
+Skin/Body,Asia,Hair Dye,Frederic Malle,Toner,2452026,56,-3,4,5,40
+Hair/APDO,South America,Make Up Brushes,Bobbi Brown,Fragrance,4628784,59,-1,3,7,14
+Hair/APDO,North America,Fragrance,Bobbi Brown,Fragrance,3553380,37,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Bobbi Brown,Fragrance,1433476,44,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Aveda,Bronzer,3509828,57,-5,15,5,40
+Skin/Body,South America,Make Up Brushes,Elizabeth Arden,Bronzer,3699039,48,0,7,6,15
+Skin/Body,South America,Make Up Brushes,Aveda,Bronzer,3060837,54,-5,15,5,40
+Hair/APDO,Asia,Hair Dye,Elizabeth Arden,Mascara,4169021,34,0,7,6,15
+Skin/Body,South America,Hair Dye,Aveda,Toner,768508,59,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Bobbi Brown,Lipstick,1776485,36,-1,3,7,14
+Hair/APDO,South America,Fragrance,Bobbi Brown,Lipstick,1027409,33,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Elizabeth Arden,Toner,3611500,34,0,7,6,15
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Toner,4147965,39,-1,3,7,14
+Hair/APDO,Asia,Face Make-Up,Kilian,Fragrance,2119282,58,0,15,4,30
+Hair/APDO,North America,Hair Dye,Balmain,Bronzer,1387099,39,0,15,4,30
+Skin/Body,Asia,Tools,Balmain,Lipstick,1444131,40,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Bobbi Brown,Lipstick,692458,30,-1,3,7,14
+Skin/Body,South America,Make Up Brushes,Aveda,Mascara,4396937,36,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Toner,1850850,40,-3,4,4,30
+Hair/APDO,Europe,Face Make-Up,Kilian,Mascara,4330415,46,0,15,4,30
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Elizabeth Arden,Bronzer,3970431,54,0,7,6,15
+Skin/Body,Europe,Make Up Brushes,Frederic Malle,Lipstick,4728087,42,-3,4,5,40
+Skin/Body,Europe,Hair Dye,Aveda,Fragrance,4424152,51,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Face Make-Up,Kilian,Mascara,2183032,55,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Fragrance,Bobbi Brown,Mascara,1002264,38,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Bobbi Brown,Mascara,4675282,30,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Hair Dye,Kilian,Mascara,1444740,58,-5,15,5,40
+Skin/Body,South America,Tools,Frederic Malle,Fragrance,2787319,47,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Bobbi Brown,Bronzer,2152131,42,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Tools,Bobbi Brown,Lipstick,3129137,30,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Tools,Balmain,Toner,4361607,34,-5,15,5,40
+Hair/APDO,Europe,Make Up Brushes,Kilian,Fragrance,2288220,52,0,15,4,30
+Hair/APDO,Europe,Make Up Brushes,Kilian,Lipstick,2341646,51,0,15,4,30
+Fragrance + Color Cosmetics,North America,Tools,Balmain,Bronzer,2319239,52,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Kilian,Fragrance,2479746,60,0,15,4,30
+Skin/Body,Asia,Face Make-Up,Elizabeth Arden,Fragrance,2004900,56,0,7,6,15
+Skin/Body,North America,Fragrance,Elizabeth Arden,Mascara,2880612,42,0,7,6,15
+Hair/APDO,North America,Fragrance,Bobbi Brown,Bronzer,4625279,52,-1,3,7,14
+Hair/APDO,South America,Face Make-Up,Aveda,Mascara,3477299,45,0,15,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Frederic Malle,Fragrance,2046064,44,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Elizabeth Arden,Fragrance,2206930,45,0,7,6,15
+Skin/Body,South America,Make Up Brushes,Balmain,Fragrance,2309771,56,-5,15,5,40
+Skin/Body,Asia,Fragrance,Bobbi Brown,Toner,2834482,51,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Tools,Balmain,Fragrance,1784283,42,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Bobbi Brown,Fragrance,2003061,42,-1,3,7,14
+Hair/APDO,South America,Make Up Brushes,Frederic Malle,Mascara,4848530,45,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Bronzer,906547,38,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Bobbi Brown,Toner,3691849,55,-1,3,7,14
+Hair/APDO,South America,Hair Dye,Balmain,Toner,2041037,35,0,15,4,30
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Lipstick,4462931,32,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Face Make-Up,Aveda,Bronzer,2932665,54,-5,15,5,40
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Balmain,Toner,2291396,50,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Fragrance,Aveda,Lipstick,4518293,58,-5,15,5,40
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Elizabeth Arden,Bronzer,4601599,40,0,7,6,15
+Skin/Body,South America,Hair Dye,Balmain,Bronzer,4275702,51,-5,15,5,40
+Skin/Body,South America,Hair Dye,Bobbi Brown,Toner,4305721,44,-1,3,7,14
+Skin/Body,Europe,Tools,Balmain,Lipstick,658477,33,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Toner,4188173,45,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Tools,Aveda,Lipstick,1301125,48,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Elizabeth Arden,Bronzer,4362949,55,0,7,6,15
+Hair/APDO,North America,Hair Dye,Elizabeth Arden,Lipstick,2104592,47,0,7,6,15
+Skin/Body,Europe,Hair Dye,Kilian,Fragrance,4716794,47,-5,15,5,40
+Skin/Body,North America,Make Up Brushes,Aveda,Bronzer,4695843,31,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Elizabeth Arden,Mascara,4573542,33,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Fragrance,Aveda,Toner,2024631,37,-5,15,5,40
+Hair/APDO,Asia,Hair Dye,Bobbi Brown,Toner,4683583,40,-1,3,7,14
+Fragrance + Color Cosmetics,North America,Hair Dye,Bobbi Brown,Bronzer,4328239,58,-1,3,7,14
+Hair/APDO,South America,Face Make-Up,Balmain,Bronzer,2807600,34,0,15,4,30
+Hair/APDO,Asia,Hair Dye,Kilian,Bronzer,966589,59,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Bronzer,2299971,59,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Tools,Aveda,Lipstick,1073881,60,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Aveda,Bronzer,4378551,37,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Frederic Malle,Fragrance,2113560,59,-3,4,5,40
+Fragrance + Color Cosmetics,North America,Hair Dye,Aveda,Bronzer,3695741,51,-5,15,5,40
+Hair/APDO,South America,Fragrance,Elizabeth Arden,Fragrance,1050428,41,0,7,6,15
+Skin/Body,South America,Tools,Frederic Malle,Bronzer,897172,36,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Face Make-Up,Balmain,Mascara,1254085,41,-5,15,5,40
+Skin/Body,Europe,Fragrance,Bobbi Brown,Toner,1251993,60,-1,3,7,14
+Hair/APDO,Asia,Face Make-Up,Frederic Malle,Bronzer,4602748,46,-3,4,4,30
+Fragrance + Color Cosmetics,Europe,Make Up Brushes,Elizabeth Arden,Mascara,817942,54,0,7,6,15
+Skin/Body,North America,Face Make-Up,Elizabeth Arden,Bronzer,3330514,57,0,7,6,15
+Hair/APDO,North America,Fragrance,Frederic Malle,Fragrance,4766399,51,-3,4,4,30
+Skin/Body,South America,Tools,Frederic Malle,Fragrance,1402473,56,-3,4,5,40
+Hair/APDO,South America,Hair Dye,Aveda,Toner,2143906,44,0,15,4,30
+Hair/APDO,Europe,Make Up Brushes,Aveda,Toner,1947307,35,0,15,4,30
+Hair/APDO,Europe,Tools,Aveda,Toner,3951001,32,0,15,4,30
+Hair/APDO,Asia,Face Make-Up,Aveda,Toner,2889127,42,0,15,4,30
+Hair/APDO,Asia,Tools,Balmain,Lipstick,1751661,57,0,15,4,30
+Skin/Body,North America,Fragrance,Elizabeth Arden,Mascara,2304053,38,0,7,6,15
+Skin/Body,North America,Make Up Brushes,Kilian,Mascara,2082701,40,-5,15,5,40
+Skin/Body,North America,Hair Dye,Bobbi Brown,Lipstick,1517497,46,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Fragrance,Bobbi Brown,Lipstick,3594510,52,-1,3,7,14
+Skin/Body,South America,Fragrance,Frederic Malle,Fragrance,690285,40,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Kilian,Bronzer,3216826,48,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Bobbi Brown,Lipstick,1611288,33,-1,3,7,14
+Fragrance + Color Cosmetics,Asia,Face Make-Up,Frederic Malle,Fragrance,1331635,42,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Hair Dye,Frederic Malle,Mascara,4951116,52,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Aveda,Mascara,1910808,44,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Balmain,Fragrance,3413293,55,0,15,4,30
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Kilian,Lipstick,4570101,48,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Frederic Malle,Bronzer,882811,52,-3,4,4,30
+Hair/APDO,North America,Face Make-Up,Bobbi Brown,Toner,4896208,49,-1,3,7,14
+Skin/Body,Europe,Face Make-Up,Frederic Malle,Toner,2199660,37,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Make Up Brushes,Elizabeth Arden,Bronzer,1347405,45,0,7,6,15
+Hair/APDO,South America,Tools,Frederic Malle,Fragrance,4288264,54,-3,4,4,30
+Skin/Body,Europe,Face Make-Up,Balmain,Toner,2172349,52,-5,15,5,40
+Skin/Body,South America,Hair Dye,Kilian,Fragrance,3667126,54,-5,15,5,40
+Hair/APDO,North America,Make Up Brushes,Frederic Malle,Toner,3224274,44,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Toner,2573946,35,-1,3,7,14
+Skin/Body,North America,Tools,Kilian,Fragrance,3647887,55,-5,15,5,40
+Skin/Body,North America,Fragrance,Bobbi Brown,Fragrance,2140027,51,-1,3,7,14
+Skin/Body,Asia,Fragrance,Frederic Malle,Lipstick,3098385,55,-3,4,5,40
+Skin/Body,Europe,Face Make-Up,Kilian,Fragrance,2685132,35,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Balmain,Fragrance,2024960,32,0,15,4,30
+Hair/APDO,Europe,Fragrance,Bobbi Brown,Fragrance,887773,53,-1,3,7,14
+Skin/Body,Asia,Fragrance,Aveda,Lipstick,3083677,57,-5,15,5,40
+Hair/APDO,Europe,Fragrance,Frederic Malle,Fragrance,1867064,48,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Kilian,Mascara,2896640,48,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Make Up Brushes,Frederic Malle,Mascara,2416796,54,-3,4,5,40
+Skin/Body,Europe,Tools,Frederic Malle,Lipstick,2284094,45,-3,4,5,40
+Fragrance + Color Cosmetics,Europe,Fragrance,Bobbi Brown,Mascara,4524919,57,-1,3,7,14
+Skin/Body,North America,Make Up Brushes,Kilian,Fragrance,2931129,38,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Kilian,Bronzer,2469412,34,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Aveda,Fragrance,4175049,33,0,15,4,30
+Skin/Body,Europe,Tools,Kilian,Toner,3128973,45,-5,15,5,40
+Skin/Body,Europe,Tools,Balmain,Toner,2524611,34,-5,15,5,40
+Skin/Body,Asia,Tools,Frederic Malle,Bronzer,1530451,53,-3,4,5,40
+Hair/APDO,Europe,Make Up Brushes,Aveda,Fragrance,4366585,43,0,15,4,30
+Hair/APDO,North America,Fragrance,Frederic Malle,Bronzer,4010764,41,-3,4,4,30
+Fragrance + Color Cosmetics,North America,Tools,Frederic Malle,Bronzer,2860901,39,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Toner,3791987,51,-3,4,4,30
+Skin/Body,South America,Face Make-Up,Bobbi Brown,Toner,1290671,59,-1,3,7,14
+Skin/Body,Asia,Fragrance,Bobbi Brown,Toner,3004973,52,-1,3,7,14
+Skin/Body,South America,Make Up Brushes,Elizabeth Arden,Toner,4384175,46,0,7,6,15
+Hair/APDO,Europe,Face Make-Up,Frederic Malle,Bronzer,1498899,45,-3,4,4,30
+Hair/APDO,Europe,Fragrance,Aveda,Fragrance,4705089,36,0,15,4,30
+Skin/Body,Europe,Hair Dye,Elizabeth Arden,Fragrance,4957910,59,0,7,6,15
+Skin/Body,Europe,Face Make-Up,Frederic Malle,Toner,886213,59,-3,4,5,40
+Skin/Body,Europe,Face Make-Up,Frederic Malle,Fragrance,1377751,51,-3,4,5,40
+Hair/APDO,Europe,Face Make-Up,Balmain,Bronzer,2301951,45,0,15,4,30
+Fragrance + Color Cosmetics,South America,Fragrance,Aveda,Lipstick,2015509,58,-5,15,5,40
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Fragrance,1808166,37,0,7,6,15
+Hair/APDO,North America,Face Make-Up,Elizabeth Arden,Bronzer,1830728,52,0,7,6,15
+Hair/APDO,South America,Hair Dye,Aveda,Lipstick,3924638,47,0,15,4,30
+Skin/Body,South America,Tools,Balmain,Bronzer,4637075,44,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Tools,Aveda,Lipstick,3773751,57,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Elizabeth Arden,Mascara,3091822,44,0,7,6,15
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Toner,3300174,59,-1,3,7,14
+Skin/Body,North America,Hair Dye,Aveda,Bronzer,3996716,46,-5,15,5,40
+Skin/Body,Europe,Make Up Brushes,Elizabeth Arden,Lipstick,4849025,58,0,7,6,15
+Fragrance + Color Cosmetics,Europe,Tools,Aveda,Lipstick,3205421,35,-5,15,5,40
+Hair/APDO,Europe,Hair Dye,Kilian,Fragrance,647032,43,0,15,4,30
+Fragrance + Color Cosmetics,North America,Make Up Brushes,Aveda,Fragrance,2218562,50,-5,15,5,40
+Skin/Body,Asia,Hair Dye,Frederic Malle,Lipstick,4783664,40,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Bobbi Brown,Fragrance,2828033,36,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Fragrance,Kilian,Fragrance,3805107,34,-5,15,5,40
+Hair/APDO,North America,Tools,Kilian,Fragrance,4300760,39,0,15,4,30
+Fragrance + Color Cosmetics,North America,Face Make-Up,Bobbi Brown,Mascara,4346300,52,-1,3,7,14
+Fragrance + Color Cosmetics,South America,Fragrance,Frederic Malle,Lipstick,4143488,60,-3,4,5,40
+Skin/Body,Asia,Make Up Brushes,Bobbi Brown,Fragrance,3669562,47,-1,3,7,14
+Hair/APDO,South America,Fragrance,Bobbi Brown,Mascara,2363907,38,-1,3,7,14
+Fragrance + Color Cosmetics,Europe,Hair Dye,Frederic Malle,Mascara,4926421,53,-3,4,5,40
+Skin/Body,North America,Tools,Balmain,Fragrance,2643184,39,-5,15,5,40
+Hair/APDO,Europe,Face Make-Up,Elizabeth Arden,Mascara,3026915,31,0,7,6,15
+Hair/APDO,South America,Hair Dye,Frederic Malle,Mascara,1380432,30,-3,4,4,30
+Fragrance + Color Cosmetics,South America,Tools,Aveda,Mascara,4439625,43,-5,15,5,40
+Hair/APDO,Asia,Face Make-Up,Elizabeth Arden,Bronzer,1742522,53,0,7,6,15
+Fragrance + Color Cosmetics,Asia,Fragrance,Elizabeth Arden,Lipstick,2541215,46,0,7,6,15
+Hair/APDO,South America,Face Make-Up,Elizabeth Arden,Lipstick,4386613,52,0,7,6,15
+Hair/APDO,Asia,Tools,Balmain,Lipstick,1161440,39,0,15,4,30
+Hair/APDO,Europe,Hair Dye,Frederic Malle,Lipstick,881325,35,-3,4,4,30
+Hair/APDO,North America,Face Make-Up,Balmain,Lipstick,3401884,41,0,15,4,30
+Skin/Body,Asia,Tools,Aveda,Fragrance,2089426,30,-5,15,5,40
+Skin/Body,South America,Tools,Aveda,Bronzer,2335068,56,-5,15,5,40
+Fragrance + Color Cosmetics,Asia,Hair Dye,Bobbi Brown,Lipstick,2701279,33,-1,3,7,14
+Hair/APDO,North America,Fragrance,Balmain,Bronzer,4714086,50,0,15,4,30
+Hair/APDO,Europe,Tools,Bobbi Brown,Toner,4426449,31,-1,3,7,14
+Skin/Body,North America,Tools,Bobbi Brown,Lipstick,4944910,49,-1,3,7,14
+Skin/Body,Europe,Face Make-Up,Frederic Malle,Fragrance,3716662,30,-3,4,5,40
+Hair/APDO,Europe,Tools,Bobbi Brown,Toner,1932672,55,-1,3,7,14
+Hair/APDO,Asia,Tools,Balmain,Lipstick,2965596,34,0,15,4,30
+Fragrance + Color Cosmetics,South America,Hair Dye,Kilian,Fragrance,2182978,55,-5,15,5,40
+Hair/APDO,South America,Tools,Frederic Malle,Lipstick,3722018,38,-3,4,4,30
+Fragrance + Color Cosmetics,Asia,Hair Dye,Balmain,Lipstick,4278271,30,-5,15,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Frederic Malle,Mascara,1428864,59,-3,4,5,40
+Fragrance + Color Cosmetics,South America,Hair Dye,Balmain,Bronzer,2966511,53,-5,15,5,40
+Skin/Body,Asia,Face Make-Up,Bobbi Brown,Lipstick,3099098,43,-1,3,7,14
